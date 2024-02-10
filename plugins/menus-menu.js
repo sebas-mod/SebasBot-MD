@@ -32,6 +32,51 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ▢ *Usuarios regs:* ${rtotalreg}
  ▢ *Usuarios totales:* ${rtotal}
 
+
+ ╭━〔 ⚙️ 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐎 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑 ⚙️ 〕
+ *┃➤ 🟢 ${usedPrefix}enable*
+ *┃➤ 🔴 ${usedPrefix}disable*
+  ╰━━━━━━━━━━━━
+  
+
+ ╭━〔 ❄️ 𝐆𝐑𝐔𝐏𝐎𝐒 ❄️〕
+ *┃➤ 👥 ${usedPrefix}kick*
+ *┃➤ 👥 ${usedPrefix}grupo*
+ *┃➤ 👥 ${usedPrefix}promote*
+ *┃➤ 👥 ${usedPrefix}demote*
+ *┃➤ 👥 ${usedPrefix}demote*
+ *┃➤ 👥 ${usedPrefix}link*
+ *┃➤ 👥 ${usedPrefix}invocar*
+ *┃➤ 👥 ${usedPrefix}setwelcome*
+ *┃➤ 👥 ${usedPrefix}setbye*
+ *┃➤ 👥 ${usedPrefix}hidetag*
+ *┃➤ 👥 ${usedPrefix}fantasmas*
+ *┃➤ 👥 ${usedPrefix}kickfantasmas*
+
+ *╔══ ≪ REGLAS , LISTA , FICHA ≫ ══╗*
+*║* 💻➺ _${usedPrefix}Fem4_
+*║* 💻➺ _${usedPrefix}Fem6_
+*║* 💻➺ _${usedPrefix}FemInterna4_
+*║* 💻➺ _${usedPrefix}FemInterna6_
+*║* 💻➺ _${usedPrefix}Masc4_
+*║* 💻➺ _${usedPrefix}Masc6_
+*║* 💻➺ _${usedPrefix}MascInterna4_
+*║* 💻➺ _${usedPrefix}MascInterna6_
+*║* 💻➺ _${usedPrefix}Mixto4_
+*║* 💻➺ _${usedPrefix}Mixto6_
+*║* 💻➺ _${usedPrefix}MixtoInterna4_
+*║* 💻➺ _${usedPrefix}MixtoInterna6_
+*║* 💻➺ _${usedPrefix}ReglasApos_
+*║* 💻➺ _${usedPrefix}Ficha / Formulario Pa Entrar A Team_
+*╚══ ≪ •❈• ≫ ══╝*
+
+ *╔══ ≪ LINKS DE COMUS/APK Y DRIVES DZN ≫ ══╗*
+ *║* 🎐 _${usedPrefix}SpamApk*
+ *║* 🎐 _${usedPrefix}SpamComu_
+ *║* 🎐 _${usedPrefix}ApkEdits_
+ *║* 🎐 _${usedPrefix}DriveEdits_
+ *╚══ ≪ •❈• ≫ ══╝*
+
  *╔══ ≪ STICKERS X FILTROS ≫ ══╗*
  *║* 🎐 _${usedPrefix}sticker | s *imagen o video*_
  *║* 🎐 _${usedPrefix}sticker | s *url de tipo jpg*_
@@ -53,32 +98,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *║* 🎐 _${usedPrefix}cs *:* cs2_
  *╚══ ≪ •❈• ≫ ══╝*
 
- *╔══ ≪ LINKS DE COMUS/APK Y DRIVES DZN ≫ ══╗*
- *║* 🎐 _${usedPrefix}SpamApk*
- *║* 🎐 _${usedPrefix}SpamComu_
- *║* 🎐 _${usedPrefix}ApkEdits_
- *║* 🎐 _${usedPrefix}DriveEdits_
- *╚══ ≪ •❈• ≫ ══╝*
- 
- 
- ╭━〔 ⚙️ 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐎 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑 ⚙️ 〕
-*┃➤ 🟢 ${usedPrefix}enable*
-*┃➤ 🔴 ${usedPrefix}disable*
- ╰━━━━━━━━━━━━
-
- ╭━〔 ❄️ 𝐆𝐑𝐔𝐏𝐎𝐒 ❄️〕
- *┃➤ 👥 ${usedPrefix}kick*
- *┃➤ 👥 ${usedPrefix}grupo*
- *┃➤ 👥 ${usedPrefix}promote*
- *┃➤ 👥 ${usedPrefix}demote*
- *┃➤ 👥 ${usedPrefix}demote*
- *┃➤ 👥 ${usedPrefix}link*
- *┃➤ 👥 ${usedPrefix}invocar*
- *┃➤ 👥 ${usedPrefix}setwelcome*
- *┃➤ 👥 ${usedPrefix}setbye*
- *┃➤ 👥 ${usedPrefix}hidetag*
- *┃➤ 👥 ${usedPrefix}fantasmas*
- *┃➤ 👥 ${usedPrefix}kickfantasmas*
 
  ╭━〔 🎮 𝐉𝐔𝐄𝐆𝐎𝐒 🎮 〕
 *┃➤ 🕹️ ${usedPrefix}mates*
@@ -128,23 +147,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 *┃➤ 🕹️ ${usedPrefix}kchero*
 *┃➤ 🕹️ ${usedPrefix}kchero*
  ╰━━━━━━━━━━━━
- 
-*╔══ ≪ REGLAS , LISTA , FICHA ≫ ══╗*
-*║* 💻➺ _${usedPrefix}Fem4_
-*║* 💻➺ _${usedPrefix}Fem6_
-*║* 💻➺ _${usedPrefix}FemInterna4_
-*║* 💻➺ _${usedPrefix}FemInterna6_
-*║* 💻➺ _${usedPrefix}Masc4_
-*║* 💻➺ _${usedPrefix}Masc6_
-*║* 💻➺ _${usedPrefix}MascInterna4_
-*║* 💻➺ _${usedPrefix}MascInterna6_
-*║* 💻➺ _${usedPrefix}Mixto4_
-*║* 💻➺ _${usedPrefix}Mixto6_
-*║* 💻➺ _${usedPrefix}MixtoInterna4_
-*║* 💻➺ _${usedPrefix}MixtoInterna6_
-*║* 💻➺ _${usedPrefix}ReglasApos_
-*║* 💻➺ _${usedPrefix}Ficha / Formulario Pa Entrar A Team_
-*╚══ ≪ •❈• ≫ ══╝*
+
 
  ╭━〔 ⚠️ *FREE FIRE* ⚠️ 〕
 *┃➤ 🗺️ ${usedPrefix}bermuda*
