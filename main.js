@@ -152,16 +152,16 @@ global.conn = makeWASocket(connectionOptions);
             numeroTelefono = phoneNumber.replace(/[^0-9]/g, '')
 
             if (!Object.keys(PHONENUMBER_MCC).some(v => numeroTelefono.startsWith(v))) {
-                console.log(chalk.bgBlack(chalk.redBright("Comience con el código de país de su número de WhatsApp.\nEjemplo: +5219992095479")))
+                console.log(chalk.bgBlack(chalk.redBright("Comience con el código de país de su número de WhatsApp.\nEjemplo: +56986469687")))
                 process.exit(0)
             }
         } else {
-            numeroTelefono = await question(chalk.bgBlack(chalk.greenBright(`Por favor, escriba su número de WhatsApp.\nEjemplo: +5219992095479 : `)))
+            numeroTelefono = await question(chalk.bgBlack(chalk.greenBright(`Por favor, escriba su número de WhatsApp.\nEjemplo: +56986469687 : `)))
             numeroTelefono = numeroTelefono.replace(/[^0-9]/g, '')
             if (!Object.keys(PHONENUMBER_MCC).some(v => numeroTelefono.startsWith(v))) {
-                console.log(chalk.bgBlack(chalk.redBright("Comience con el código de país de su número de WhatsApp.\nEjemplo: +5219992095479")))
+                console.log(chalk.bgBlack(chalk.redBright("Comience con el código de país de su número de WhatsApp.\nEjemplo: +56986469687")))
 
-                numeroTelefono = await question(chalk.bgBlack(chalk.greenBright(`Por favor, escriba su número de WhatsApp.\nEjemplo: +5219992095479 : `)))
+                numeroTelefono = await question(chalk.bgBlack(chalk.greenBright(`Por favor, escriba su número de WhatsApp.\nEjemplo: +56986469687 : `)))
                 numeroTelefono = numeroTelefono.replace(/[^0-9]/g, '')
                 rl.close()
             }
@@ -351,8 +351,8 @@ global.reloadHandler = async function(restatConn) {
     conn.ev.off('creds.update', conn.credsUpdate);
   }
 
-  conn.welcome = '👋 ¡Bienvenido/a!\n@user';
-  conn.bye = '👋 ¡Hasta luego!\n@user';
+  conn.welcome = '*╔══════════════*\n*╟❧ @subject*\n*╠══════════════*\n*╟❧ @user*\n*╟❧ 𝙱𝙸𝙴𝙽𝚅𝙴𝙽𝙸𝙳𝙾/𝙰* \n*║*\n*╟❧ 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾:*\n\n@desc\n\n*║*\n*╟❧ 𝙳𝙸𝚂𝙵𝚁𝚄𝚃𝙰 𝚃𝚄 𝙴𝚂𝚃𝙰𝙳𝙸𝙰!!*\n*╚══════════════*';
+  conn.bye = '*╔══════════════*\n*╟❧ @user*\n*╟❧ 𝙷𝙰𝚂𝚃𝙰 𝙿𝚁𝙾𝙽𝚃𝙾 👋🏻*\n*╟❧ ¡𝐅𝐢𝐧𝐚𝐥𝐦𝐞𝐧𝐭𝐞! 𝐒𝐞 𝐟𝐮𝐞 𝐮𝐧 𝐜𝐚𝐜𝐡𝐮𝐝@ 🦌*\n*╟❧¡𝐀𝐝𝐢𝐨́𝐬!*\n*╚══════════════*';
   conn.spromote = '*[ ℹ️ ] @user Fue promovido a administrador.*';
   conn.sdemote = '*[ ℹ️ ] @user Fue degradado de administrador.*';
   conn.sDesc = '*[ ℹ️ ] La descripción del grupo ha sido modificada.*';
@@ -512,7 +512,7 @@ setInterval(async () => {
   if (stopped === 'close' || !conn || !conn.user) return;
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
-  const bio = `[ ⏳ ] Uptime: ${uptime}`;
+  const bio = `👨🏻‍💻 ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ: ${uptime} ┃ 👑 ʙʏ 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 ┃ 🔗 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖: @ancelzzz`;
   await conn.updateProfileStatus(bio).catch((_) => _);
 }, 60000);
 function clockString(ms) {

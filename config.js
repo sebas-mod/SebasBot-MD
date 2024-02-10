@@ -10,42 +10,42 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['51923844756', '👑 Mystic - Creador 👑', true],
-  ['56986469687', '💫 Mystic - Collaborator 1 💫', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
-  ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
-  ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
-  ['50246028932', '💫 Mystic - Collaborator 5 💫', true],
-  ['5212412377467', '💫 Mystic - Collaborator 6 💫', true],
-  ['5215517489568', '💫 Mystic - Rey Endymion 💫', false],
-  ['59895555511', '💫 Mystic - Collaborator 8 💫', true],
-  ['393518398856','💫 Mystic - Tester Fabri115💫', true],
-  ['593968585283'],
-  ['5219993404349'],
-  ['5219991402134'],
-  ['5492266466080'],
-  ['5219996125657'],
-  ['5218442114446'],
-  ['59894808483'],
-  ['593980586516'], 
-  ['595975740803'],  
-  ['5492266613038'],
-  ['50497150165'],
-  ['51906662557'],
-  ['573183650526'], 
-  ['5217441298510'], 
-  ['595992611272']
+  ['51923844756', '👑 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 - Creador 👑', true],
+  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
+  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
+  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
+  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
+  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
+  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
+  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', false],
+  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
+  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖💫', true],
+  ['56986469687'],
+  ['56986469687'],
+  ['56986469687'],
+  ['56986469687'],
+  ['56986469687'],
+  ['56986469687'],
+  ['56986469687'],
+  ['56986469687'], 
+  ['56986469687'],  
+  ['56986469687'],
+  ['56986469687'],
+  ['56986469687'],
+  ['56986469687'], 
+  ['56986469687'], 
+  ['56986469687']
 ];
 
-global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
+global.suittag = ['56986469687'];
+global.prems = ['56986469687'];
 
 global.packname = 'Sticker';
-global.author = 'The Mystic - Bot';
-global.wm = 'The Mystic - Bot';
-global.titulowm = 'The Mystic - Bot';
-global.titulowm2 = `The Mystic - Bot`
-global.igfg = 'The Mystic - Bot';
+global.author = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
+global.wm = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
+global.titulowm = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
+global.titulowm2 = `𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖`
+global.igfg = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -66,15 +66,15 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
-global.gt = 'The Mystic - Bot';
-global.mysticbot = 'The Mystic - Bot';
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
+global.wm2 = `${dia} ${fecha}\n𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖`;
+global.gt = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
+global.mysticbot = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
+global.md = 'https://chat.whatsapp.com/CkVjZZlIrW3JfwyhWvHFLv';
+global.mysticbot = 'https://chat.whatsapp.com/CkVjZZlIrW3JfwyhWvHFLv';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '5219993404349';
+global.nomorown = '56986469687';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
