@@ -21,16 +21,16 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖
+    const str = `ㅤㅤ𝑫𝑰𝑵𝑶𝑩𝑶𝑻 @𝑩𝒚 𝑱𝒐𝒔𝒔🦖🍃
 
- ▢ *Hola ,* ${taguser} este es el 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖
+ ▢ *Hola ,* ${taguser} este es el 𝑫𝑰𝑵𝑶𝑩𝑶𝑻 🦖
 
- ▢ *Owner:* 𝙅𝙤𝙨𝙨 🤺
- ▢ *WA:* wa.me/56986469687
- ▢ *IG:* @ancelzzz
- ▢ *Uptime:* ${uptime}
- ▢ *Usuarios regs:* ${rtotalreg}
- ▢ *Usuarios totales:* ${rtotal}
+ 👨🏻‍💻 *Owner:* 𝙅𝙤𝙨𝙨 🤺
+ ➡️ *WA:* wa.me/56986469687
+ 🔱 *IG:* @ancelzzz
+ ⏳ *Uptime:* ${uptime}
+ 👥 *Usuarios regs:* ${rtotalreg}
+ 🔮 *Usuarios totales:* ${rtotal}
 
 
  ╭━〔 ⚙️ 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐎 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑 ⚙️ 〕
