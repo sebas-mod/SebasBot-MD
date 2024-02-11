@@ -40,7 +40,7 @@ global.owner = [
 global.suittag = ['56986469687'];
 global.prems = ['56986469687'];
 
-global.packname = 'Sticker';
+global.packname = '𝑻𝒐𝒎𝒂 𝑻𝒖 𝑺𝒕𝒊𝒄𝒌𝒆𝒓';
 global.author = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
 global.wm = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
 global.titulowm = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
