@@ -37,6 +37,13 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *┃➤ 🟢 ${usedPrefix}enable*
  *┃➤ 🔴 ${usedPrefix}disable*
   ╰━━━━━━━━━━━━
+
+  ╭━〔 🧿 𝐆𝐄𝐍𝐄𝐑𝐀 𝐏𝐋𝐀𝐓𝐀𝐅𝐎𝐑𝐌𝐀𝐒 🧿 〕
+*┃➤ 🌐 ${usedPrefix}plataformas*
+*┃➤ 🌐 ${usedPrefix}cccompras*
+*┃➤ 🌐 ${usedPrefix}cursovip*
+*┃➤ 🌐 ${usedPrefix}cursoplataformas*
+ ╰━━━━━━━━━━━━
   
 
  ╭━〔 ❄️ 𝐆𝐑𝐔𝐏𝐎𝐒 ❄️〕
@@ -52,6 +59,16 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *┃➤ 👥 ${usedPrefix}hidetag*
  *┃➤ 👥 ${usedPrefix}fantasmas*
  *┃➤ 👥 ${usedPrefix}kickfantasmas*
+  ╰━━━━━━━━━━━━
+
+ ╭━〔 ⚠️ *FREE FIRE* ⚠️ 〕
+ *┃➤ 🗺️ ${usedPrefix}bermuda*
+ *┃➤ 🗺️ ${usedPrefix}kalahari*
+ *┃➤ 🗺️ ${usedPrefix}alpes*
+ *┃➤ 🗺️ ${usedPrefix}purgatorio*
+ *┃➤ 🗺️ ${usedPrefix}nexterra*
+ *┃➤ 📋 ${usedPrefix}agendasemanal*
+  ╰━━━━━━━━━━━━
 
  *╔══ ≪ REGLAS , LISTA , FICHA ≫ ══╗*
 *║* 💻➺ _${usedPrefix}Fem4_
@@ -149,15 +166,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ╰━━━━━━━━━━━━
 
 
- ╭━〔 ⚠️ *FREE FIRE* ⚠️ 〕
-*┃➤ 🗺️ ${usedPrefix}bermuda*
-*┃➤ 🗺️ ${usedPrefix}kalahari*
-*┃➤ 🗺️ ${usedPrefix}alpes*
-*┃➤ 🗺️ ${usedPrefix}purgatorio*
-*┃➤ 🗺️ ${usedPrefix}nexterra*
-*┃➤ 📋 ${usedPrefix}agendasemanal*
- ╰━━━━━━━━━━━━
-
  ╭━〔 🎭 *IMAGENES* 🎭 〕
 *┃➤ 🖍️ ${usedPrefix}goku*
 *┃➤ 🖍️ ${usedPrefix}vegeta*
@@ -169,10 +177,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 *┃➤ 🖍️ ${usedPrefix}charmander*
  ╰━━━━━━━━━━━━
  
-
- ╭━〔 🧿 𝐆𝐄𝐍𝐄𝐑𝐀 𝐏𝐋𝐀𝐓𝐀𝐅𝐎𝐑𝐌𝐀𝐒 🧿 〕
-*┃➤ 🌐 ${usedPrefix}cuentas*
- ╰━━━━━━━━━━━━
 
  ╭━〔 🈴 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒 🈴 〕
 *┃➤ 📥 ${usedPrefix}play*

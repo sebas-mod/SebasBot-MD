@@ -8,7 +8,7 @@ handler.group = true
 handler.botAdmin = true
 
 global.cccompras = `
-NOTA: Prueba en sitios como CANVAPRO, APPLE TV, DUOLINGO,VIKIRAKUTEN,MUBI,ETC.\nCon IP del país de la CC\n\nTAMBIEN ENSEÑO A SACAR TUS PROPIAS PLATAFORMAS, QUE ESPERAS?\nHABLAME: Wa.me/56986469687
+NOTA: Prueba en sitios como CANVAPRO,YT PREMIUM, APPLE TV, DUOLINGO,VIKIRAKUTEN,MUBI,ETC.\nCon IP del país de la CC\n\nTAMBIEN ENSEÑO A SACAR TUS PROPIAS PLATAFORMAS, QUE ESPERAS?\nHABLAME: Wa.me/56986469687
 
 ⚜️ 𝑺𝒕𝒂𝒕𝒖𝒔 -» 𝑨𝒑𝒑𝒓𝒐𝒗𝒆𝒅 ✅
 ⚜️ 𝑹𝒆𝒔𝒑𝒐𝒏𝒔𝒆 -» 𝑨𝒑𝒑𝒓𝒐𝒗𝒆𝒅
