@@ -70,6 +70,15 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *┃➤ 📋 ${usedPrefix}agendasemanal*
   ╰━━━━━━━━━━━━
 
+  ╭━〔 📋 *BUSCAR VS PLANTILLAS* 🔱 〕
+ *┃➤ 🗺️ ${usedPrefix}buscarvsmasc*
+ *┃➤ 🗺️ ${usedPrefix}bsmsac*
+ *┃➤ 🗺️ ${usedPrefix}buscarvsfem*
+ *┃➤ 🗺️ ${usedPrefix}bsfem*
+ *┃➤ 🗺️ ${usedPrefix}buscarvsmixto*
+ *┃➤ 📋 ${usedPrefix}bsmixto*
+  ╰━━━━━━━━━━━━
+
  *╔══ ≪ REGLAS , LISTA , FICHA ≫ ══╗*
 *║* 💻➺ _${usedPrefix}Fem4_
 *║* 💻➺ _${usedPrefix}Fem6_
