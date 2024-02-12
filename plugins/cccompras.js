@@ -51,4 +51,6 @@ NOTA: Prueba en sitios como CANVAPRO, APPLE TV, DUOLINGO,VIKIRAKUTEN,MUBI,ETC.\n
 ⚜️ 𝑪𝒐𝒖𝒏𝒕𝒓𝒚: MALAYSIA 🇲🇾 - MYR
 ⚜️ 𝑰𝒏𝒇𝒐: DEBIT - MASTERCARD - STANDARD
 ╚━━━━━━「 𝑰𝑵𝑭𝑶 」━━━━━━╝
+
+𝘗𝘈𝘙𝘈 𝘚𝘈𝘉𝘌𝘙 𝘔𝘈𝘚 𝘚𝘖𝘉𝘙𝘌 𝘌𝘓 𝘊𝘜𝘙𝘚𝘖 𝘗𝘖𝘕 𝘌𝘓 𝘚𝘐𝘎𝘜𝘐𝘌𝘕𝘛𝘌 𝘊𝘖𝘔𝘈𝘕𝘋𝘖 .𝘊𝘶𝘳𝘴𝘰𝘷𝘪𝘱
 `;
