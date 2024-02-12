@@ -7,27 +7,20 @@ handler.admin = true
 handler.group = true
 handler.botAdmin = true
 
-global.bsFem = ` 
-🫧 ⋆ ☇  𝗕𝗨𝗦𝗖𝗢 𝗩𝗦 𝗙𝗘𝗠 🦭
+global.bsfem = ` 
+╭┈────────────── ˊˎ-
+  ⌕        𝘽𝙐𝙎𝘾𝙊 𝙑𝙎             🌴
 
-          ›› 𝗛𝗼𝗿𝗮 ¦ 𝗠𝗼𝗱↷ 🩷
-🎀𝙈𝙤𝙙𝙖𝙡𝙞𝙙𝙖𝙙:
-☁❩ 16:00 🇨🇱🇦🇷 ⌇ 14:00 🇵🇪
-🎀𝙈𝙤𝙙𝙖𝙡𝙞𝙙𝙖𝙙:
-☁❩ 18:00 🇨🇱🇦🇷 ⌇ 16:00 🇵🇪
-🎀𝙈𝙤𝙙𝙖𝙡𝙞𝙙𝙖𝙙:
-☁❩ 20:00 🇨🇱🇦🇷 ⌇ 18:00 🇵🇪
-🎀𝙈𝙤𝙙𝙖𝙡𝙞𝙙𝙖𝙙:
-☁❩ 22:00 🇨🇱🇦🇷 ⌇ 20:00 🇵🇪 
-🎀𝙈𝙤𝙙𝙖𝙡𝙞𝙙𝙖𝙙:
-☁❩ 00:00 🇨🇱🇦🇷 ⌇ 22:00 🇵🇪
+╰┈>        4 vs 4 MASCU
+ㅤ
+*Apost*↠ 20🇦🇷 - 18🇵🇪 Max 1🖥
+*Apost*↠ 00🇦🇷 - 22🇵🇪 Max 1🖥
 
-⊹ ִֶָ  🌷Mis reglas, No modifico
-⊹ ִֶָ  🌷Sin 🏳‍🌈 , Sin pc
-⊹ ִֶָ  🌷Hablar con IG si o si.
-⊹ ִֶָ  🌷Con logo en mano
+  
 
-🎀Hablar:🎀
-wa.me/
-wa.me/
+Wa.me/+56962711328
+Wa.me/+56962711328
+
+MIS REGLAS
+MIS REGLAS
 `;
