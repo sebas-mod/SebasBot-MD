@@ -39,10 +39,10 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
   ╰━━━━━━━━━━━━
 
   ╭━〔 🧿 𝐆𝐄𝐍𝐄𝐑𝐀 𝐏𝐋𝐀𝐓𝐀𝐅𝐎𝐑𝐌𝐀𝐒 🧿 〕
-*┃➤ 🌐 ${usedPrefix}plataformas*
-*┃➤ 🌐 ${usedPrefix}cccompras*
-*┃➤ 🌐 ${usedPrefix}cursovip*
-*┃➤ 🌐 ${usedPrefix}cursoplataformas*
+*┃➤ 💴 ${usedPrefix}plataformas*
+*┃➤ 💳 ${usedPrefix}cccompras*
+*┃➤ 💰 ${usedPrefix}cursovip*
+*┃➤ 💸 ${usedPrefix}cursoplataformas*
  ╰━━━━━━━━━━━━
   
 
@@ -70,13 +70,13 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *┃➤ 📋 ${usedPrefix}agendasemanal*
   ╰━━━━━━━━━━━━
 
-  ╭━〔 📋 *BUSCAR VS PLANTILLAS* 🔱 〕
- *┃➤ 🗺️ ${usedPrefix}buscarvsmasc*
- *┃➤ 🗺️ ${usedPrefix}bsmsac*
- *┃➤ 🗺️ ${usedPrefix}buscarvsfem*
- *┃➤ 🗺️ ${usedPrefix}bsfem*
- *┃➤ 🗺️ ${usedPrefix}buscarvsmixto*
- *┃➤ 📋 ${usedPrefix}bsmixto*
+  ╭━〔 ⚔️ *BUSCAR VS PLANTILLAS* 🔱 〕
+ *┃➤ 🌀 ${usedPrefix}buscarvsmasc*
+ *┃➤ ⚔️ ${usedPrefix}bsmsac*
+ *┃➤ ⚓ ${usedPrefix}buscarvsfem*
+ *┃➤ ✨ ${usedPrefix}bsfem*
+ *┃➤ 📍 ${usedPrefix}buscarvsmixto*
+ *┃➤ 👁️‍🗨️ ${usedPrefix}bsmixto*
   ╰━━━━━━━━━━━━
 
  *╔══ ≪ REGLAS , LISTA , FICHA ≫ ══╗*
