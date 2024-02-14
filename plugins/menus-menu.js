@@ -97,8 +97,9 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 *╚══ ≪ •❈• ≫ ══╝*
 
  *╔══ ≪ LINKS DE COMUS/APK Y DRIVES DZN ≫ ══╗*
- *║* 🎐 _${usedPrefix}SpamApk_*
+ *║* 🎐 _${usedPrefix}SpamApk_
  *║* 🎐 _${usedPrefix}SpamComu_
+ *║* 🎐 _${usedPrefix}Spam2_
  *║* 🎐 _${usedPrefix}ApkEdits_
  *║* 🎐 _${usedPrefix}DriveEdits_
  *╚══ ≪ •❈• ≫ ══╝*
