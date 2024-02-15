@@ -42,6 +42,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 *┃➤ 💴 ${usedPrefix}plataformas*
 *┃➤ 💳 ${usedPrefix}cccompras*
 *┃➤ 💰 ${usedPrefix}cursovip*
+*┃➤ 💰 ${usedPrefix}cc2*
 *┃➤ 💸 ${usedPrefix}cursoplataformas*
  ╰━━━━━━━━━━━━
   

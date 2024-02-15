@@ -1,13 +1,9 @@
 const handler = async (m, {conn}) => {
-  m.reply(global.cursovip);
+  m.reply(global.cusrsovip);
 };
-handler.command = /^(cursovip|cursoplataformas)$/i;
+handler.command = /^(cursovip|cursoplataformas|cursocc)$/i;
 export default handler;
-handler.admin = true
-handler.group = true
-handler.botAdmin = true
-
-global.cursovip = `
+global.cusrsovip = `
 🦖💳 CURSO DINO CARDS🦕🚀
 
 INFO:🚀
