@@ -101,6 +101,9 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *║* 🎐 _${usedPrefix}SpamApk_
  *║* 🎐 _${usedPrefix}SpamComu_
  *║* 🎐 _${usedPrefix}Spam2_
+ *║* 🎐 _${usedPrefix}rcursosdzn_
+ *║* 🎐 _${usedPrefix}drivesdzn_
+ *║* 🎐 _${usedPrefix}dzn_
  *║* 🎐 _${usedPrefix}ApkEdits_
  *║* 🎐 _${usedPrefix}DriveEdits_
  *╚══ ≪ •❈• ≫ ══╝*
