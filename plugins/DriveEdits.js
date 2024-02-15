@@ -1,7 +1,7 @@
 const handler = async (m, {conn}) => {
   m.reply(global.DriveEdits);
 };
-handler.command = /^(DriveEdits|drivesdzn|recursosdzn2)$/i;
+handler.command = /^(DriveEdits|drivesdzn|recursosdzn2|dzn2)$/i;
 export default handler;
 global.DriveEdits = `
 𝗟𝗜𝗡𝗞𝗦 𝗗𝗥𝗜𝗩𝗘 𝗘𝗗𝗜𝗧𝗦
