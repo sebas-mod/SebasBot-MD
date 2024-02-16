@@ -38,15 +38,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *┃➤ 🔴 ${usedPrefix}disable*
   ╰━━━━━━━━━━━━
 
-  ╭━〔 🧿 𝐆𝐄𝐍𝐄𝐑𝐀 𝐏𝐋𝐀𝐓𝐀𝐅𝐎𝐑𝐌𝐀𝐒 🧿 〕
-*┃➤ 💴 ${usedPrefix}plataformas*
-*┃➤ 💳 ${usedPrefix}cccompras*
-*┃➤ 💰 ${usedPrefix}cursovip*
-*┃➤ 💰 ${usedPrefix}cc2*
-*┃➤ 💸 ${usedPrefix}cursoplataformas*
- ╰━━━━━━━━━━━━
-  
-
  ╭━〔 ❄️ 𝐆𝐑𝐔𝐏𝐎𝐒 ❄️〕
  *┃➤ 👥 ${usedPrefix}kick*
  *┃➤ 👥 ${usedPrefix}grupo*
@@ -107,6 +98,16 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *║* 🎐 _${usedPrefix}ApkEdits_
  *║* 🎐 _${usedPrefix}DriveEdits_
  *╚══ ≪ •❈• ≫ ══╝*
+
+ ╭━〔 🧿 𝐆𝐄𝐍𝐄𝐑𝐀 𝐏𝐋𝐀𝐓𝐀𝐅𝐎𝐑𝐌𝐀𝐒 🧿 〕
+ *┃➤ 💴 ${usedPrefix}plataformas*
+ *┃➤ 💳 ${usedPrefix}drops*
+ *┃➤ 💳 ${usedPrefix}streaming*
+ *┃➤ 💳 ${usedPrefix}cccompras*
+ *┃➤ 💰 ${usedPrefix}cursovip*
+ *┃➤ 💰 ${usedPrefix}cc2*
+ *┃➤ 💸 ${usedPrefix}cursoplataformas*
+  ╰━━━━━━━━━━━
 
  *╔══ ≪ STICKERS X FILTROS ≫ ══╗*
  *║* 🎐 _${usedPrefix}sticker | s *imagen o video*_
