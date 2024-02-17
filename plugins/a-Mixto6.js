@@ -1,7 +1,7 @@
 const handler = async (m, {conn}) => {
   m.reply(global.Mixto6);
 };
-handler.command = /^(Mixto6|Mixto6)$/i;
+handler.command = /^(Mixto6|mixto6)$/i;
 export default handler;
 handler.admin = true
 handler.group = true

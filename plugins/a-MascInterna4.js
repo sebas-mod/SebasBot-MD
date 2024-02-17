@@ -1,7 +1,7 @@
 const handler = async (m, {conn}) => {
   m.reply(global.MascInterna4);
 };
-handler.command = /^(MascInterna4|MascInterna4)$/i;
+handler.command = /^(MascInterna4|mascinterna4)$/i;
 export default handler;
 handler.admin = true
 handler.group = true
@@ -28,5 +28,6 @@ global.MascInterna4 = `
 │ 
 │   _⊹ ִֶָ Donador/Donadora De Sala:_  
 │ 
-╰───────────────๑❀๑  `;
+╰───────────────๑❀๑  
 `;
+

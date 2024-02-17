@@ -1,7 +1,7 @@
 const handler = async (m, {conn}) => {
   m.reply(global.Masc6);
 };
-handler.command = /^(Masc6|Masc6)$/i;
+handler.command = /^(Masc6|masc6)$/i;
 export default handler;
 handler.admin = true
 handler.group = true
@@ -30,5 +30,4 @@ global.Masc6 = `
 │   _⊹ ִֶָ Donador/Donadora De Sala:_ 
 │
 ╰───────────────๑❀๑ 
-`;
 `;
