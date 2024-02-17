@@ -90,11 +90,16 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 *║* 💻➺ _${usedPrefix}apos_
 *║* 💻➺ _${usedPrefix}mapa_
 *║* 💻➺ _${usedPrefix}Ficha / Formulario Reclutamiento_
+*║* 💻➺ _${usedPrefix}Nexterra_
+*║* 💻➺ _${usedPrefix}Bermuda_
+*║* 💻➺ _${usedPrefix}Kalahary_
+*║* 💻➺ _${usedPrefix}Alpes_
+*║* 💻➺ _${usedPrefix}AgendaSemanal_
 *╚══ ≪ •❈• ≫ ══╝*
 
  *╔══ ≪ LINKS DE COMUS/APK Y DRIVES DZN ≫ ══╗*
- *║* 🎐 _${usedPrefix}SpamApk_
- *║* 🎐 _${usedPrefix}SpamComu_
+ *║* 🎐_${usedPrefix}SpamApk / WhatsApp_
+ *║* 🎐_${usedPrefix}SpamComu / Comunidades_
  *║* 🎐 _${usedPrefix}Spam2_
  *║* 🎐 _${usedPrefix}rcursosdzn_
  *║* 🎐 _${usedPrefix}drivesdzn_
