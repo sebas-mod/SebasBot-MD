@@ -28,12 +28,12 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
  🤴🏻 Creador : 𝙅𝙤𝙨𝙨 🤺
  🌩️ Numero:  wa.me/56986469687
- 🗣️ Adquirir : wa.me/56986469687
+ 💤 Adquirir : wa.me/56986469687
  🔱 Ig : @ancelzzz
  ⏳ *Uptime:* ${uptime}
  👥 *Usuarios regs:* ${rtotalreg}
  🔮 *Usuarios totales:* ${rtotal}
-┖━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┚
+┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
 
 
  ╭━〔 ⚙️ 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐎 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑 ⚙️ 〕
