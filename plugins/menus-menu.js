@@ -84,8 +84,9 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 *║* 💻➺ _${usedPrefix}Mixto6_
 *║* 💻➺ _${usedPrefix}MixtoInterna4_
 *║* 💻➺ _${usedPrefix}MixtoInterna6_
-*║* 💻➺ _${usedPrefix}ReglasApos_
-*║* 💻➺ _${usedPrefix}Ficha / Formulario Pa Entrar A Team_
+*║* 💻➺ _${usedPrefix}apos_
+*║* 💻➺ _${usedPrefix}mapa_
+*║* 💻➺ _${usedPrefix}Ficha / Formulario Reclutamiento_
 *╚══ ≪ •❈• ≫ ══╝*
 
  *╔══ ≪ LINKS DE COMUS/APK Y DRIVES DZN ≫ ══╗*
