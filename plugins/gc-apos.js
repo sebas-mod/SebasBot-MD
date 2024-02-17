@@ -1,7 +1,7 @@
 const handler = async (m, {conn}) => {
   m.reply(global.apos);
 };
-handler.command = /^(Apos|Apostado)$/i;
+handler.command = /^(Apos|Apostado|reglasapos)$/i;
 export default handler;
 
 global.apos = `

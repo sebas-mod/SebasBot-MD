@@ -36,12 +36,15 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
 
 
+
  ╭━〔 ⚙️ 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐎 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑 ⚙️ 〕
  *┃➤ 🟢 ${usedPrefix}enable*
  *┃➤ 🔴 ${usedPrefix}disable*
   ╰━━━━━━━━━━━━
 
  ╭━〔 ❄️ 𝐆𝐑𝐔𝐏𝐎𝐒 ❄️〕
+ *┃➤ 👥 ${usedPrefix}menuff*
+ *┃➤ 👥 ${usedPrefix}comandosff*
  *┃➤ 👥 ${usedPrefix}kick*
  *┃➤ 👥 ${usedPrefix}grupo*
  *┃➤ 👥 ${usedPrefix}promote*
@@ -57,6 +60,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
   ╰━━━━━━━━━━━━
 
  ╭━〔 ⚠️ *FREE FIRE* ⚠️ 〕
+ *┃➤ 🗺️ ${usedPrefix}menuff*
  *┃➤ 🗺️ ${usedPrefix}bermuda*
  *┃➤ 🗺️ ${usedPrefix}kalahari*
  *┃➤ 🗺️ ${usedPrefix}alpes*
