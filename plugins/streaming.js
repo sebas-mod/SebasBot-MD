@@ -9,20 +9,25 @@ global.streaming = `
 𝗥𝗘𝗖𝗨𝗘𝗥𝗗𝗔 𝗤𝗨𝗘 𝗦𝗢𝗡 𝗖𝗨𝗘𝗡𝗧𝗔𝗦 𝗛𝗜𝗧, 𝗦𝗜 𝗡𝗢 𝗦𝗜𝗥𝗩𝗘𝗡 𝗘𝗦𝗣𝗘𝗥𝗔 𝗤𝗨𝗘 𝗖𝗔𝗗𝗔 𝗦𝗘𝗠𝗔𝗡𝗔 𝗦𝗘 𝗥𝗘𝗡𝗨𝗘𝗩𝗔𝗡 𝗠𝗔𝗦 𝗖𝗨𝗘𝗡𝗧𝗔𝗦 𝗣𝗥𝗘𝗠𝗜𝗨𝗠
 
 𝗗𝗜𝗦𝗡𝗘𝗬
-macee.cole42@gmail.com:Shortstop42
-rschakett@comcast.net:Dondieg0
-hallpat18@yahoo.com:Family1st
-indigop17@gmail.com:Yarnell17
-tifflynncole@gmail.com:Thething1
-hornets1616@yahoo.com:Hockey14
-jamienic14@yahoo.com:Jezabelle3
-davidkstott@gmail.com:Cravath1
-joel.e.miller@gmail.com:Wombat11 
-ashleigh_enoch@yahoo.com:Soulsista8
-cganyard@gmail.com:Molly123
-rml424@gmail.com:Hopefloats03
-Hollylind@yahoo.com:Trixie33
-lgm.guillen@gmail.com
+2d5h2@naver.com:easy4001!
+0908abcd@hanmail.net:1501015gg@
+111306@hanmail.net:kcha38317@@
+DYSNEY534@avnflex.com:qaf88wm7
+alexandre_nascidodasaguas@hotmail.com:Al658709$$
+aaronstevenson@msn.com:#As016130
+ME@NORISA.COM:pumkinS1
+EDgar81cm@gmail.com:Luciana0923
+NachoMorals29@gmail.com:Futbol2911
+Chloe.menetrier.sc@gmail.com:Ser*18041995
+almaagredano@ymail.com:Agr172546!
+andresson8111@gmail.com:abelhinha27@
+almishb@gmail.com:Bergman1212
+alejandro.mtz.saldierna@gmail.com:Saldierna06
+anagizanetti@gmail.com:270815gi
+LA.LICJESSLOP@GMAIL.COM:1107Jessy
+Gbrewin78@gmail.com:Daddy23boys
+Arichabelo@hotmail.com:Arielito1*
+anderson_bassetto@hotmail.com:disneyplusop3214
 
 𝗦𝗧𝗔𝗥 𝗣𝗟𝗨𝗦 𝗬 𝗗𝗜𝗦𝗡𝗘𝗬
 
@@ -40,6 +45,19 @@ sanmartin377
 https://www.canva.com/brand/join?token=ntSJMgW4oGlsWj57MJipAQ&referrer=team-invite
 https://www.canva.com/brand/join?token=ntSJMgW4oGlsWj57MJipAQ&referrer=team-invite
 https://www.canva.com/brand/join?token=ntSJMgW4oGlsWj57MJipAQ&referrer=team-invite
+
+𝗛𝗕𝗢 𝗠𝗔𝗫
+
+egoomes@hotmail.com:skoito0153
+reyvaxero.lowlife@gmail.com:Mariobros1
+valentinbejenaru2@gmail.com:Valentin2004
+frankky091022@gmail.com:piran091022
+gruby1312-82@wp.pl:gruby123
+wojtek.okon@gazeta.pl:Agenciura
+zhucastellanos@gmail.com:Salmos91
+ped.ruizdiaz@hotmail.com:lolasito123
+tomek.mrowinski@onet.pl:23128381t
+bachulec@onet.pl:Asdfghjkl1234
 
 𝗖𝗥𝗨𝗡𝗖𝗛𝗬𝗥𝗢𝗟𝗟
 
