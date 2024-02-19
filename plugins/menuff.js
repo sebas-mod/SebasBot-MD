@@ -21,7 +21,9 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const str = `
     *╔══ ≪ ⚠️ *FREE FIRE* ⚠️ ≫ ══╗*
     *║*
-    *║≪ REGLAS , LISTA , FICHA ≫
+    *║* ≪ PUEDEN USAR LOS ADMINS ≫
+    *║*
+    *║* ≪ REGLAS , LISTA , FICHA ≫
     *║*
     *║* 💻➺ _${usedPrefix}Fem4_
     *║* 💻➺ _${usedPrefix}Fem6_
