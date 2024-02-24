@@ -1546,7 +1546,7 @@ global.dfail = (type, m, conn) => {
     restrict: '*[ ℹ️ ] Este comando fue desactivado por el propietario del bot.*',
   }[type];
   const aa = {quoted: m, userJid: conn.user.jid};
-  const prep = generateWAMessageFromContent(m.chat, {extendedTextMessage: {text: msg, contextInfo: {externalAdReply: {title: '*[ ⚠ ] Advertencia*', body: '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖', thumbnail: imagen1, sourceUrl: 'https://chat.whatsapp.com/CkVjZZlIrW3JfwyhWvHFLv'}}}}, aa);
+  const prep = generateWAMessageFromContent(m.chat, {extendedTextMessage: {text: msg, contextInfo: {externalAdReply: {title: '*[ ⚠ ] Advertencia*', body: '𝙇𝙪𝙙𝙢𝙞𝙗𝙤𝙩 💝', thumbnail: imagen1, sourceUrl: 'https://www.instagram.com/LUDMI_SHOP_/'}}}}, aa);
   if (msg) return conn.relayMessage(m.chat, prep.message, {messageId: prep.key.id});
 };
 

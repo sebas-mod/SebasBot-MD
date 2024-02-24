@@ -22,12 +22,12 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = '🦖 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
+  const wm = '𝙇𝙪𝙙𝙢𝙞𝙗𝙤𝙩 💝';
   const info = ` _*< INFO - ESTADO />*_
 
- [🤴🏻] *Prop.:* joss
- [#️⃣] *WA:* wa.me/56986469687
- [🤖] *PayPal:* paypal.me/ancelzzz
+ [🤴🏻] *Prop.:* 𝙇𝙪𝙙𝙢𝙞 💝
+ [#️⃣] *WA:* wa.me/542915267624
+ [🤖] *IG:* @LUDMI_SHOP
 
  [💡] *Ping:* ${rtime}
  [🚀]*Uptime:* ${uptime}
@@ -57,7 +57,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://www.instagram.com/ancelzzz/` },
+    document: { url: `https://www.instagram.com/LUDMI_SHOP_/` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -66,13 +66,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://www.instagram.com/ancelzzz/",
+        mediaUrl: "https://www.instagram.com/LUDMI_SHOP_/",
         mediaType: 2,
         previewType: "pdf",
-        title: "🦖 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖",
-        body: "🦖 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖",
+        title: "𝙇𝙪𝙙𝙢𝙞𝙗𝙤𝙩 💝",
+        body: "𝙇𝙪𝙙𝙢𝙞𝙗𝙤𝙩 💝",
         thumbnail: imagen1,
-        sourceUrl: "https://www.instagram.com/ancelzzz/",
+        sourceUrl: "https://www.instagram.com/LUDMI_SHOP_/",
       },
     },
     caption: info,

@@ -4,9 +4,9 @@ const handler = async (m, {conn, args}) => {
   conn.reply(m.chat, 'https://chat.whatsapp.com/' + await conn.groupInviteCode(group), m, {
     contextInfo: {externalAdReply: {mediaUrl: null, mediaType: 1, description: null,
       title: '𝙻𝙸𝙽𝙺 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾',
-      body: '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖',
+      body: '𝙇𝙪𝙙𝙢𝙞𝙗𝙤𝙩 💝',
       previewType: 0, thumbnail: fs.readFileSync('./Menu2.jpg'),
-      sourceUrl: `https://www.instagram.com/ancelzzz/`}}});
+      sourceUrl: `https://www.instagram.com/LUDMI_SHOP_/`}}});
 };
 handler.help = ['linkgroup'];
 handler.tags = ['group'];
