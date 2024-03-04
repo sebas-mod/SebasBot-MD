@@ -1,10 +1,10 @@
 {
   "name": "SebasBot-MD",
-  "website": "https://github.com/BrunoSobrino",
-  "description": "Subscribete a The Shadow Borkers - Bot (≧▽≦)",
-  "repository": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
-  "logo": "https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/pictures/heroku-icon.jpg",
-  "success_url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "website": "https://github.com/Karim-off",
+  "description": "Sigueme en ig @usxr_angelito",
+  "repository": "https://github.com/Karim-off/SebasBot-MD",
+  "logo": "https://raw.githubusercontent.com/Karim-off/SebasBot-MD/master/src/pictures/heroku-icon.jpg",
+  "success_url": "https://github.com/Karim-off/SebasBot-MD",
   "keywords": [
     "nodejs",
     "heroku",
