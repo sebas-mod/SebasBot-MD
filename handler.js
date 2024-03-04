@@ -1499,8 +1499,8 @@ export async function callUpdate(callUpdate) {
         const callmsg = await mconn.conn.reply(nk.from, `Hola *@${nk.from.split('@')[0]}*, las ${nk.isVideo ? 'videollamadas' : 'llamadas'} no están permitidas, serás bloqueado.\n-\nSi accidentalmente llamaste póngase en contacto con mi creador para que te desbloquee!`, false, {mentions: [nk.from]});
         // let data = global.owner.filter(([id, isCreator]) => id && isCreator)
         // await this.sendContact(nk.from, data.map(([id, name]) => [id, name]), false, { quoted: callmsg })
-        const vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;𝙅𝙤𝙨𝙨 👑;;;\nFN:𝙅𝙤𝙨𝙨𝐨 👑\nORG:𝙅𝙤𝙨𝙨 👑\nTITLE:\nitem1.TEL;waid=56986469687:+56 9 86469687\nitem1.X-ABLabel:𝙅𝙤𝙨𝙨 👑\nX-WA-BIZ-DESCRIPTION:[❗] ᴄᴏɴᴛᴀᴄᴛᴀ ᴀ ᴇsᴛᴇ ɴᴜᴍ ᴘᴀʀᴀ ᴄᴏsᴀs ɪᴍᴘᴏʀᴛᴀɴᴛᴇs.\nX-WA-BIZ-NAME:𝙅𝙤𝙨𝙨 👑\nEND:VCARD`;
-        await mconn.conn.sendMessage(nk.from, {contacts: {displayName: '𝙅𝙤𝙨𝙨 👑', contacts: [{vcard}]}}, {quoted: callmsg});
+        const vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;𝑲𝒂𝒓𝒊𝒎 👑;;;\nFN:𝑲𝒂𝒓𝒊𝒎 👑\nORG:𝑲𝒂𝒓𝒊𝒎 👑\nTITLE:\nitem1.TEL;waid=59168683798:+591 68683798\nitem1.X-ABLabel:𝑲𝒂𝒓𝒊𝒎 👑\nX-WA-BIZ-DESCRIPTION:[❗] ᴄᴏɴᴛᴀᴄᴛᴀ ᴀ ᴇsᴛᴇ ɴᴜᴍ ᴘᴀʀᴀ ᴄᴏsᴀs ɪᴍᴘᴏʀᴛᴀɴᴛᴇs.\nX-WA-BIZ-NAME:𝑲𝒂𝒓𝒊𝒎 👑\nEND:VCARD`;
+        await mconn.conn.sendMessage(nk.from, {contacts: {displayName: '𝑲𝒂𝒓𝒊𝒎 👑', contacts: [{vcard}]}}, {quoted: callmsg});
         await mconn.conn.updateBlockStatus(nk.from, 'block');
       }
     }
@@ -1546,7 +1546,7 @@ global.dfail = (type, m, conn) => {
     restrict: '*[ ℹ️ ] Este comando fue desactivado por el propietario del bot.*',
   }[type];
   const aa = {quoted: m, userJid: conn.user.jid};
-  const prep = generateWAMessageFromContent(m.chat, {extendedTextMessage: {text: msg, contextInfo: {externalAdReply: {title: '*[ ⚠ ] Advertencia*', body: '𝙇𝙪𝙙𝙢𝙞𝙗𝙤𝙩 💝', thumbnail: imagen1, sourceUrl: 'https://www.instagram.com/LUDMI_SHOP_/'}}}}, aa);
+  const prep = generateWAMessageFromContent(m.chat, {extendedTextMessage: {text: msg, contextInfo: {externalAdReply: {title: '*[ ⚠ ] Advertencia*', body: '𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣', thumbnail: imagen1, sourceUrl: 'https://www.instagram.com/usxr_angelito/'}}}}, aa);
   if (msg) return conn.relayMessage(m.chat, prep.message, {messageId: prep.key.id});
 };
 
