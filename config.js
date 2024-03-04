@@ -10,42 +10,42 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['50360082744', '👑 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 - Creador 👑', true],
-  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
-  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
-  ['542915267624', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
-  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
-  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
-  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
-  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', false],
-  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
-  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖💫', true],
-  ['56986469687'],
-  ['56986469687'],
-  ['56986469687'],
-  ['56986469687'],
-  ['56986469687'],
-  ['56986469687'],
-  ['56986469687'],
-  ['56986469687'], 
-  ['56986469687'],  
-  ['56986469687'],
-  ['56986469687'],
-  ['56986469687'],
-  ['56986469687'], 
-  ['56986469687'], 
-  ['56986469687']
+  ['59168683798', '🐣 𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕  - Creador 💫', true],
+  ['5491140951814', '💫 𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣 💫', true],
+  ['', '💫 𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣 💫', true],
+  ['', '💫 𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣 💫', true],
+  ['', '💫 𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣 💫', true],
+  ['', '💫 𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣 💫', true],
+  ['', '💫 𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣 💫', true],
+  ['', '💫 𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣 💫', false],
+  ['', '💫 𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣 💫', true],
+  ['', '💫 𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣💫', true],
+  [''],
+  [''],
+  [''],
+  [''],
+  [''],
+  [''],
+  [''],
+  [''], 
+  [''],  
+  [''],
+  [''],
+  [''],
+  [''], 
+  [''], 
+  ['']
 ];
 
 global.suittag = ['56986469687'];
 global.prems = ['56986469687'];
 
 global.packname = '𝑻𝒐𝒎𝒂 𝑻𝒖 𝑺𝒕𝒊𝒄𝒌𝒆𝒓';
-global.author = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
-global.wm = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
-global.titulowm = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
-global.titulowm2 = `𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖`
-global.igfg = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
+global.author = '𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣';
+global.wm = '𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣';
+global.titulowm = '𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣';
+global.titulowm2 = `𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣`
+global.igfg = '𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -66,15 +66,15 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖`;
-global.gt = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
-global.mysticbot = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
-global.md = 'https://chat.whatsapp.com/CkVjZZlIrW3JfwyhWvHFLv';
-global.mysticbot = 'https://chat.whatsapp.com/CkVjZZlIrW3JfwyhWvHFLv';
+global.wm2 = `${dia} ${fecha}\n𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣`;
+global.gt = '𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣';
+global.mysticbot = '𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣';
+global.md = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6';
+global.mysticbot = 'https://whatsapp.com/channel/0029VaJxgcB0bIdvuOwKTM2Y';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '56986469687';
+global.nomorown = '59168683798';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
