@@ -25,14 +25,14 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 
  ▢ *Hola ,* ${taguser} este es el 𝙇𝙪𝙙𝙢𝙞𝙗𝙤𝙩 💝
 
- ┎━━━━━━━ ∙ʚ👸🏻ɞ∙ ━━━━━━━┒
- 👸🏻 Dueña : 𝗟𝘂𝗱𝗺𝗶 👸🏻
- 🌩️ Numero:  wa.me/542915267624
- 💤 Adquirir : wa.me/542915267624
- 🔱 Ig : @LUDMI_SHOP_
- ⏳ *Uptime:* ${uptime}
- 👥 *Usuarios regs:* ${rtotalreg}
- 🔮 *Usuarios totales:* ${rtotal}
+┎━━━━━━━ ∙ʚ👸🏻ɞ∙ ━━━━━━━┒
+┣👸🏻 Dueña : 𝗟𝘂𝗱𝗺𝗶 👸🏻
+┣🌩️ Numero:  wa.me/542915267624
+┣💤 Adquirir : wa.me/542915267624
+┣ 🔱 Ig : @LUDMI_SHOP_
+┣⏳ *Uptime:* ${uptime}
+┣👥 *Usuarios regs:* ${rtotalreg}
+┣🔮 *Usuarios totales:* ${rtotal}
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
 
 
