@@ -61,21 +61,21 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ╟⫹⫺
 ╚════════════════════╝
  ╭━〔 ❄️ 𝐆𝐑𝐔𝐏𝐎𝐒 ❄️〕
- *┃➤ 👥 ${usedPrefix}menuff*
- *┃➤ 👥 ${usedPrefix}comandosff*
- *┃➤ 👥 ${usedPrefix}kick*
- *┃➤ 👥 ${usedPrefix}grupo*
- *┃➤ 👥 ${usedPrefix}promote*
- *┃➤ 👥 ${usedPrefix}demote*
- *┃➤ 👥 ${usedPrefix}demote*
- *┃➤ 👥 ${usedPrefix}link*
- *┃➤ 👥 ${usedPrefix}invocar*
- *┃➤ 👥 ${usedPrefix}setwelcome*
- *┃➤ 👥 ${usedPrefix}setbye*
- *┃➤ 👥 ${usedPrefix}hidetag*
- *┃➤ 👥 ${usedPrefix}fantasmas*
- *┃➤ 👥 ${usedPrefix}kickfantasmas*
-  ╰━━━━━━━━━━━━
+ ┃➤👥menuff
+ ┃➤👥comandosff
+ ┃➤👥kick
+ ┃➤👥grupo
+ ┃➤👥promote
+ ┃➤👥demote
+ ┃➤👥demote
+ ┃➤👥link
+ ┃➤👥invocar
+ ┃➤👥setwelcome
+ ┃➤👥setbye
+ ┃➤👥hidetag
+ ┃➤👥fantasmas
+ ┃➤👥kickfantasmas
+ ╰━━━━━━━━━━━━
 
  ╭━〔 ⚠️ *FREE FIRE* ⚠️ 〕
  *┃➤ 🗺️ ${usedPrefix}menuff*
