@@ -5,8 +5,8 @@ handler.command = /^(spam2)$/i;
 export default handler;
 global.Spam2 = `
 
-COMUNS DE SPAM DYLAN BOT 🎗
-━━━━━━━━🎗━━━━━━━━━
+COMUNS SPAM 1 DYLAN BOT ⚡
+━━━━━━━━⚡━━━━━━━━━
 
 1. https://chat.whatsapp.com/E7KXhewz6sFFCDdsEndX7z
 
