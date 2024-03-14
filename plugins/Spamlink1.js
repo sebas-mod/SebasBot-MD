@@ -1,3 +1,13 @@
+const handler = async (m, {conn}) => {
+  m.reply(global.spam1);
+};
+handler.command = /^(spam1)$/i;
+export default handler;
+global.Spam2 = `
+
+COMUNS SPAM 2 DYLAN BOT 🧸
+━━━━━━━━🧸━━━━━━━━
+
 1.	https://chat.whatsapp.com/IqSZEouQwIk4rva4kwUAV2 
 2.	https://chat.whatsapp.com/EVHxoEqZpR35kEiRzpmKav 
 3.	https://chat.whatsapp.com/BbU1fAhKNxF03I7w7JkT5y 
@@ -48,3 +58,5 @@
 48.	https://chat.whatsapp.com/Dz4WAWaB54dJxBh2ewD4Ir
 49.	https://chat.whatsapp.com/Fh7a4fsu7Gq5RhgzhTYIaf
 50.	https://chat.whatsapp.com/Iigjplzogc58cqRNfIv2Sl
+`;
+
