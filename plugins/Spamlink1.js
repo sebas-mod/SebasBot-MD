@@ -3,7 +3,7 @@ const handler = async (m, {conn}) => {
 };
 handler.command = /^(spam1)$/i;
 export default handler;
-global.Spam2 = `
+global.Spam1 = `
 
 COMUNS SPAM 2 DYLAN BOT 🧸
 ━━━━━━━━🧸━━━━━━━━
