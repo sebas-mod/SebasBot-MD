@@ -119,7 +119,7 @@ Alpes
 AgendaSemanal
 *╚══ ≪ •❈• ≫ ══╝*
 
- *╔══ ≪ LINKS DE COMUS/APK Y DRIVES DZN 🎐 ≫ ══╗*
+ *╔══ ≪ LINKS DE COMUS/APK Y DRIVES DZN🎐 ≫ ══╗*
  SpamApk / WhatsApp
  SpamComu / Comunidades
  Spam2
