@@ -1,11 +1,11 @@
 const handler = async (m, {conn}) => {
-  m.reply(global.Spam2);
+  m.reply(global.spam2);
 };
-handler.command = /^(Spam2)$/i;
+handler.command = /^(spam1)$/i;
 export default handler;
 global.Spam2 = `
 
-COMUNIDADES DE SPAM  🎗
+COMUNS DE SPAM DYLAN BOT 🎗
 ━━━━━━━━🎗━━━━━━━━━
 
 1. https://chat.whatsapp.com/E7KXhewz6sFFCDdsEndX7z
@@ -72,116 +72,50 @@ COMUNIDADES DE SPAM  🎗
 
 33. https://chat.whatsapp.com/HNkCJL823aH1hsCjjogiTK
 
-954💋
+34💋
 https://chat.whatsapp.com/GyK0XGVZoEM2fy20qDzMDi
 
-955💋
+35💋
 https://chat.whatsapp.com/CmLJkCvDQdEHGFKgyneFbZ
 
-956💋
+36💋
 https://chat.whatsapp.com/KWidEUwXgkS4sAH3GlJ3oG
 
-957💋
+37💋
 https://chat.whatsapp.com/IwJFkBgNVQCE8jPMQg1uuZ
 
-958💋
+38💋
 https://chat.whatsapp.com/LpVKFkVz2awH9aqgIxPCfZ
 
-959💋
+39💋
 https://chat.whatsapp.com/Id3S3lnfgUJ3z0vmIIUqK5
 
-960💋
+40💋
 	https://chat.whatsapp.com/KXNiV4kzMXYFQrbKQ8p4Bw				
 
-961💋
+41💋
 https://chat.whatsapp.com/FIjOgGSnRvS0jkiy6B6tHZ			
 
-962💋
+42💋
 https://chat.whatsapp.com/HJvzFkz3zwf2kGNTTKShHY					
 
-963💋
+43💋
 https://chat.whatsapp.com/LFOcX6G8mDiFVoUgL5o6kb					
 
-964💋
+44💋
 https://chat.whatsapp.com/GUMHTNNBVCR1lT3BBot6EJ					
 
-965💋
+45💋
 https://chat.whatsapp.com/HudKXsnU2iB7ic3sH7nb4G
 
-34. https://chat.whatsapp.com/CS5rl8phndQKYNAUvHYuHn
+46. https://chat.whatsapp.com/CS5rl8phndQKYNAUvHYuHn
 
-35. https://chat.whatsapp.com/C18Pu0amDbCDSV6d47NfXl
+47. https://chat.whatsapp.com/C18Pu0amDbCDSV6d47NfXl
 
-36. https://chat.whatsapp.com/GKRBLofYyG1JCefl9Eavif
+48. https://chat.whatsapp.com/GKRBLofYyG1JCefl9Eavif
 
-🚫SE LLENAN HOY🚫
+49• https://chat.whatsapp.com/HUB03wSRd8N4izaHxkD2mf
 
-🚫NUEVAS COMUNIDADES LYTZZZ🚫
-
-• https://chat.whatsapp.com/HUB03wSRd8N4izaHxkD2mf
-
-• https://chat.whatsapp.com/LZn2ZmGemVzKEBmxO92hxd
-
-• https://chat.whatsapp.com/CMpX0WopCVT1Ws3EedpOXn
-
-• https://chat.whatsapp.com/G2cBNjPxB0OAkz9dP35nGe
-
-• https://chat.whatsapp.com/Lff7HNHuM1z2bmU1SsHPTq
-
-• https://chat.whatsapp.com/JDmE2UR6XJ8IVBRYeHsnKW
-
-37. https://chat.whatsapp.com/HW7uOBkEW5VHiwSQkKVfyJ
-
-38. https://chat.whatsapp.com/Guo9LTr1sj4GErYyo9NG4o
-
-39. https://chat.whatsapp.com/FRR8gztBXyrFRP6sVlFSPU
-
-40. https://chat.whatsapp.com/Bhp2oym0yb96wWBagrT05G
-
-41. https://chat.whatsapp.com/EYNhNBGZ1LF7hkHANPx8ig
-
-42. https://chat.whatsapp.com/FpAD0Jr3uRs4xgFMr4lVnQ
-
-43. https://chat.whatsapp.com/HnGIkWjDmr97iLYG2qrRJ3
-
-44. https://chat.whatsapp.com/Hyh31OJRHdt9jYNg5IWnAm
-
-45. https://chat.whatsapp.com/HRiBA6p8H3D5ZHcargNsvD
-
-46. https://chat.whatsapp.com/DuqZYTREsSpDhNQPmyccTx
-
-47. https://chat.whatsapp.com/CmT7VBAqW5fD2dxcTd8pXf
-
-48. https://chat.whatsapp.com/Jz9nrCwXpPB0lixbiYEch2
-
-49. https://chat.whatsapp.com/BdNgikpOD42KgTW6LuvsCX
-
-50. https://chat.whatsapp.com/IMwqNXri9CT3mN7GtfdDjt
-
-51. https://chat.whatsapp.com/G08MJsa2ZFrEHilrFFSHno
-
-52. https://chat.whatsapp.com/LLHH0PIZj7E4IFLOQyjOnR
-
-53. https://chat.whatsapp.com/DIzxmCibDyu3jE51aMHfYR
-
-54. https://chat.whatsapp.com/CEKlEL4gspZ1kGj9AYOhw2
-
-55. https://chat.whatsapp.com/BxAsMPZU6uZ51XzcXoSQAI
-
-🤍 • https://chat.whatsapp.com/EnqDjNvIYjzH5pKGSqNL8I
-
-🤍 • https://chat.whatsapp.com/FyYqovh4M4T33zHs1Vqi2H
-
-🤍 • https://chat.whatsapp.com/EaX7qlbME1HITKw4OgBHHf
-
-🤍 • https://chat.whatsapp.com/LmqguQmVfS5D7fV2jTenIA
-
-• https://chat.whatsapp.com/FZEbhH99BgDI85DphLfC2p
-
-• https://chat.whatsapp.com/JBYd1MHXb8rDA47WZuosR9
-
-• https://chat.whatsapp.com/E0ldMcPFmRJ4awFd7fx8ww
-
-• https://chat.whatsapp.com/EJp57IxLO1UEATcNGAUKCx 
+50• https://chat.whatsapp.com/LZn2ZmGemVzKEBmxO92hxd
 `;
 
