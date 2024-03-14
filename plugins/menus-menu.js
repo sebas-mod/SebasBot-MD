@@ -60,8 +60,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ╟⫹⫺ 
 ╟⫹⫺
 ╚════════════════════╝
- 
-╭━〔 ❄️ 𝐆𝐑𝐔𝐏𝐎𝐒 👥〕
+ ╭━〔 ❄️ 𝐆𝐑𝐔𝐏𝐎𝐒 👥️〕
  menuff
  comandosff
  kick
@@ -78,251 +77,251 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  kickfantasmas
  ╰━━━━━━━━━━━━
 
- ╭━〔 ⚠️ *FREE FIRE* ⚠️ 〕
- *┃➤ 🗺️ ${usedPrefix}menuff*
- *┃➤ 🗺️ ${usedPrefix}bermuda*
- *┃➤ 🗺️ ${usedPrefix}kalahari*
- *┃➤ 🗺️ ${usedPrefix}alpes*
- *┃➤ 🗺️ ${usedPrefix}purgatorio*
- *┃➤ 🗺️ ${usedPrefix}nexterra*
- *┃➤ 📋 ${usedPrefix}agendasemanal*
+ ╭━〔 ⚠️ *FREE FIRE* 🗺 〕
+ menuff
+ bermuda
+ kalahari
+ alpes
+ purgatorio
+ nexterra
+ agendasemanal
   ╰━━━━━━━━━━━━
 
   ╭━〔 ⚔️ *BUSCAR VS PLANTILLAS* 🔱 〕
- *┃➤ 🌀 ${usedPrefix}buscarvsmasc*
- *┃➤ ⚔️ ${usedPrefix}bsmsac*
- *┃➤ ⚓ ${usedPrefix}buscarvsfem*
- *┃➤ ✨ ${usedPrefix}bsfem*
- *┃➤ 📍 ${usedPrefix}buscarvsmixto*
- *┃➤ 👁️‍🗨️ ${usedPrefix}bsmixto*
+ buscarvsmasc
+ bsmsac
+ buscarvsfem
+ bsfem
+ buscarvsmixto
+ bsmixto
   ╰━━━━━━━━━━━━
 
- *╔══ ≪ REGLAS , LISTA , FICHA ≫ ══╗*
-*║* 💻➺ _${usedPrefix}Fem4_
-*║* 💻➺ _${usedPrefix}Fem6_
-*║* 💻➺ _${usedPrefix}FemInterna4_
-*║* 💻➺ _${usedPrefix}FemInterna6_
-*║* 💻➺ _${usedPrefix}Masc4_
-*║* 💻➺ _${usedPrefix}Masc6_
-*║* 💻➺ _${usedPrefix}MascInterna4_
-*║* 💻➺ _${usedPrefix}MascInterna6_
-*║* 💻➺ _${usedPrefix}Mixto4_
-*║* 💻➺ _${usedPrefix}Mixto6_
-*║* 💻➺ _${usedPrefix}MixtoInterna4_
-*║* 💻➺ _${usedPrefix}MixtoInterna6_
-*║* 💻➺ _${usedPrefix}apos_
-*║* 💻➺ _${usedPrefix}mapa_
-*║* 💻➺ _${usedPrefix}Ficha / Formulario Reclutamiento_
-*║* 💻➺ _${usedPrefix}Nexterra_
-*║* 💻➺ _${usedPrefix}Bermuda_
-*║* 💻➺ _${usedPrefix}Kalahary_
-*║* 💻➺ _${usedPrefix}Alpes_
-*║* 💻➺ _${usedPrefix}AgendaSemanal_
+ *╔══ ≪ REGLAS , LISTA , FICHA 💻 ≫ ══╗*
+Fem4
+Fem6
+FemInterna4
+FemInterna6
+Masc4
+Masc6
+MascInterna4
+MascInterna6
+Mixto4
+Mixto6
+MixtoInterna4
+MixtoInterna6
+apos
+mapa
+Ficha / Formulario Reclutamiento
+Nexterra
+Bermuda
+Kalahary
+Alpes
+AgendaSemanal
 *╚══ ≪ •❈• ≫ ══╝*
 
- *╔══ ≪ LINKS DE COMUS/APK Y DRIVES DZN ≫ ══╗*
- *║* 🎐_${usedPrefix}SpamApk / WhatsApp_
- *║* 🎐_${usedPrefix}SpamComu / Comunidades_
- *║* 🎐 _${usedPrefix}Spam2_
- *║* 🎐 _${usedPrefix}rcursosdzn_
- *║* 🎐 _${usedPrefix}drivesdzn_
- *║* 🎐 _${usedPrefix}dzn_
- *║* 🎐 _${usedPrefix}ApkEdits_
- *║* 🎐 _${usedPrefix}DriveEdits_
+ *╔══ ≪ LINKS DE COMUS/APK Y DRIVES DZN 🎐 ≫ ══╗*
+ SpamApk / WhatsApp
+ SpamComu / Comunidades
+ Spam2
+ rcursosdzn
+ drivesdzn
+ dzn
+ ApkEdits
+ DriveEdits
  *╚══ ≪ •❈• ≫ ══╝*
 
 
- *╔══ ≪ STICKERS X FILTROS ≫ ══╗*
- *║* 🎐 _${usedPrefix}sticker | s *imagen o video*_
- *║* 🎐 _${usedPrefix}sticker | s *url de tipo jpg*_
- *║* 🎐 _${usedPrefix}emojimix *😺+😆*_
- *║* 🎐 _${usedPrefix}qc*_
- *║* 🎐 _${usedPrefix}scircle | círculo *imagen*_
- *║* 🎐 _${usedPrefix}semoji | emoji *tipo emoji*_
- *║* 🎐 _${usedPrefix}attp *texto*_
- *║* 🎐 _${usedPrefix}attp2 *texto*_
- *║* 🎐 _${usedPrefix}ttp *texto*_
- *║* 🎐 _${usedPrefix}ttp2 *texto*_
- *║* 🎐 _${usedPrefix}ttp3 *texto*_
- *║* 🎐 _${usedPrefix}ttp4 *texto*_
- *║* 🎐 _${usedPrefix}ttp5 *texto*_
- *║* 🎐 _${usedPrefix}ttp6 *texto*_
- *║* 🎐 _${usedPrefix}dado_
- *║* 🎐 _${usedPrefix}stickermarker *efecto : responder a imagen*_
- *║* 🎐 _${usedPrefix}stickerfilter *efecto : responder a imagen*_
- *║* 🎐 _${usedPrefix}cs *:* cs2_
+ *╔══ ≪ STICKERS X FILTROS 🎐 ≫ ══╗*
+ sticker | s *imagen o video*
+ sticker | s *url de tipo jpg*
+ emojimix *😺+😆*
+ qc
+ scircle | círculo *imagen*
+ semoji | emoji *tipo emoji*
+ attp *texto*
+ attp2 *texto*
+ ttp *texto*
+ ttp2 *texto*
+ ttp3 *texto*
+ ttp4 *texto*
+ ttp5 *texto*
+ ttp6 *texto*
+ dado
+ stickermarker *efecto : responder a imagen*
+ stickerfilter *efecto : responder a imagen*_
+ cs *:* cs2_
  *╚══ ≪ •❈• ≫ ══╝*
 
 
  ╭━〔 🎮 𝐉𝐔𝐄𝐆𝐎𝐒 🎮 〕
-*┃➤ 🕹️ ${usedPrefix}mates*
-*┃➤ 🕹️ ${usedPrefix}ppt*
-*┃➤ 🕹️ ${usedPrefix}prostituto <@tag>*
-*┃➤ 🕹️ ${usedPrefix}prostituta <@tag>*
-*┃➤ 🕹️ ${usedPrefix}gay2 <@tag>*
-*┃➤ 🕹️ ${usedPrefix}lesbiana <@tag>*
-*┃➤ 🕹️ ${usedPrefix}pajero <@tag>*
-*┃➤ 🕹️ ${usedPrefix}pajera <@tag>*
-*┃➤ 🕹️ ${usedPrefix}puto <@tag>*
-*┃➤ 🕹️ ${usedPrefix}puta <@tag>*
-*┃➤ 🕹️ ${usedPrefix}manco <@tag>*
-*┃➤ 🕹️ ${usedPrefix}manca <@tag>*
-*┃➤ 🕹️ ${usedPrefix}rata <@tag>*
-*┃➤ 🕹️ ${usedPrefix}negro <@tag>*
-*┃➤ 🕹️ ${usedPrefix}negra <@tag>*
-*┃➤ 🕹️ ${usedPrefix}fea <@tag>*
-*┃➤ 🕹️ ${usedPrefix}feo <@tag>*
-*┃➤ 🕹️ ${usedPrefix}sinpoto <@tag>*
-*┃➤ 🕹️ ${usedPrefix}sintetas <@tag>*
-*┃➤ 🕹️ ${usedPrefix}sinpito <@tag>*
-*┃➤ 🕹️ ${usedPrefix}adoptada <@tag>*
-*┃➤ 🕹️ ${usedPrefix}adoptado <@tag>*
-*┃➤ 🕹️ ${usedPrefix}love*
-*┃➤ 🕹️ ${usedPrefix}los10*
-*┃➤ 🕹️ ${usedPrefix}suitpvp*
-*┃➤ 🕹️ ${usedPrefix}slot*
-*┃➤ 🕹️ ${usedPrefix}simisimi*
-*┃➤ 🕹️ ${usedPrefix}pregunta*
-*┃➤ 🕹️ ${usedPrefix}cuando*
-*┃➤ 🕹️ ${usedPrefix}ship5*
-*┃➤ 🕹️ ${usedPrefix}abrazo*
-*┃➤ 🕹️ ${usedPrefix}ship2*
-*┃➤ 🕹️ ${usedPrefix}formarpareja*
-*┃➤ 🕹️ ${usedPrefix}verdad*
-*┃➤ 🕹️ ${usedPrefix}reto*
-*┃➤ 🕹️ ${usedPrefix}cancion*
-*┃➤ 🕹️ ${usedPrefix}pista*
-*┃➤ 🕹️ ${usedPrefix}ruleta*
-*┃➤ 🕹️ ${usedPrefix}zodiac*
-*┃➤ 🕹️ ${usedPrefix}odio*
-*┃➤ 🕹️ ${usedPrefix}ship*
-*┃➤ 🕹️ ${usedPrefix}sorteo*
-*┃➤ 🕹️ ${usedPrefix}minovia*
-*┃➤ 🕹️ ${usedPrefix}minovio*
-*┃➤ 🕹️ ${usedPrefix}kchero*
-*┃➤ 🕹️ ${usedPrefix}kchero*
+mates
+ppt
+protiuto <@tag>
+prostituta <@tag>
+gay2 <@tag>
+lesbiana <@tag>
+pajero <@tag>
+pajera <@tag>
+puto <@tag>
+puta <@tag>
+manco <@tag>
+manca <@tag>
+rata <@tag>
+negro <@tag>
+negra <@tag>
+fea <@tag>
+feo <@tag>
+sinpoto <@tag>
+sintetas <@tag>
+sinpito <@tag>
+adoptada <@tag>
+adoptado <@tag>
+love
+los10
+suitpvp
+slot
+simisimi
+pregunta
+cuando
+ship5
+abrazo
+ship2
+formarpareja
+verdad
+reto
+cancion
+pista
+ruleta
+zodiac
+odio
+ship
+sorteo
+minovia
+minovio
+kchero
+kchero
  ╰━━━━━━━━━━━━
 
 
  ╭━〔 🎭 *IMAGENES* 🎭 〕
-*┃➤ 🖍️ ${usedPrefix}goku*
-*┃➤ 🖍️ ${usedPrefix}vegeta*
-*┃➤ 🖍️ ${usedPrefix}lora*
-*┃➤ 🖍️ ${usedPrefix}cr7*
-*┃➤ 🖍️ ${usedPrefix}spiderman*
-*┃➤ 🖍️ ${usedPrefix}batman*
-*┃➤ 🖍️ ${usedPrefix}hellokitty*
-*┃➤ 🖍️ ${usedPrefix}charmander*
+goku
+vegeta
+lora
+cr7
+spiderman
+batman
+hellokitty
+charmander
  ╰━━━━━━━━━━━━
  
 
  ╭━〔 🈴 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒 🈴 〕
-*┃➤ 📥 ${usedPrefix}play*
-*┃➤ 📥 ${usedPrefix}play.1*
-*┃➤ 📥 ${usedPrefix}play2.2*
-*┃➤ 📥 ${usedPrefix}ytv.2*
-*┃➤ 📥 ${usedPrefix}yta.2*
-*┃➤ 📥 ${usedPrefix}playlist*
-*┃➤ 📥 ${usedPrefix}spotify*
-*┃➤ 📥 ${usedPrefix}spotifydl*
-*┃➤ 📥 ${usedPrefix}tiktok*
-*┃➤ 📥 ${usedPrefix}instagram*
-*┃➤ 📥 ${usedPrefix}mediafire*
-*┃➤ 📥 ${usedPrefix}gdrive*
-*┃➤ 📥 ${usedPrefix}twitter*
-*┃➤ 📥 ${usedPrefix}yta*
-*┃➤ 📥 ${usedPrefix}ytv*
-*┃➤ 📥 ${usedPrefix}imagen*
-*┃➤ 📥 ${usedPrefix}iaimagen*
-*┃➤ 📥 ${usedPrefix}pinteres*
-*┃➤ 📥 ${usedPrefix}igstory*
+play
+play.1
+play2.2
+ytv.2
+yta.2
+playlist
+spotify
+spotifydl
+tiktok
+instagram
+mediafire
+gdrive
+twitter
+yta
+ytv
+imagen
+iaimagen
+pinterest
+igstory
  ╰━━━━━━━━━━━━
 
 
 *╭━〔 👀 𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑𝐄𝐒 👀 〕*
-*┃➤ 📍 ${usedPrefix}toimg*
-*┃➤ 📍 ${usedPrefix}tomp3*
-*┃➤ 📍 ${usedPrefix}toptt*
-*┃➤ 📍 ${usedPrefix}tovideo*
-*┃➤ 📍 ${usedPrefix}tts*
+toimg
+tomp3
+toptt
+tovideo
+tts
  ╰━━━━━━━━━━━━
 
 *╭━〔 ♓ 𝐄𝐅𝐄𝐂𝐓𝐎𝐒 𝐘 𝐋𝐎𝐆𝐎𝐒 ♓ 〕*
-*┃➤ ❄️ ${usedPrefix}mensajefalso*
-*┃➤ ❄️ ${usedPrefix}logos*
-*┃➤ ❄️ ${usedPrefix}logocorazon*
-*┃➤ ❄️ ${usedPrefix}ytcomment*
-*┃➤ ❄️ ${usedPrefix}hornycard*
-*┃➤ ❄️ ${usedPrefix}itssostupid*
-*┃➤ ❄️ ${usedPrefix}pixelar*
+mensajefalso
+logos
+logocorazon
+ytcomment
+hornycard
+itssostupid
+pixelar
  ╰━━━━━━━━━━━━
 
 *╭━〔 💌 𝐅𝐑𝐀𝐒𝐄𝐒 𝐘 𝐓𝐄𝐗𝐓𝐎𝐒 💌〕*
-*┃➤ 🥀 ${usedPrefix}piropo*
-*┃➤ 🥀 ${usedPrefix}consejo*
-*┃➤ 🥀 ${usedPrefix}fraseromantica*
+piropo
+consejo
+fraseromantica
  ╰━━━━━━━━━━━━
 
  ╭━〔 ✨ 𝐁𝐔𝐒𝐂𝐀𝐃𝐎𝐑𝐄𝐒 ✨  〕*
-*┃➤ 🔍 ${usedPrefix}xnxxsearch*
-*┃➤ 🔍 ${usedPrefix}google*
-*┃➤ 🔍 ${usedPrefix}letra*
-*┃➤ 🔍 ${usedPrefix}wikipedia*
-*┃➤ 🔍 ${usedPrefix}ytsearch*
-*┃➤ 🔍 ${usedPrefix}playstore*
-*┃➤ 🔍 ${usedPrefix}mercadolibre*
-*┃➤ 🔍 ${usedPrefix}pornhubsearch*
+xnxxsearch
+google
+letra
+wikipedia
+ytsearch
+playstore
+mercadolibre
+pornhubsearch
  ╰━━━━━━━━━━━━
 
  ╭━〔 🌝 𝐇𝐄𝐑𝐑𝐀𝐌𝐈𝐄𝐍𝐓𝐀𝐒 🌝 〕
-*┃➤ 🍃 ${usedPrefix}clima*
-*┃➤ 🍃 ${usedPrefix}afk*
-*┃➤ 🍃 ${usedPrefix}ocr*
-*┃➤ 🍃 ${usedPrefix}calc*
-*┃➤ 🍃 ${usedPrefix}del*
-*┃➤ 🍃 ${usedPrefix}whatmusic*
-*┃➤ 🍃 ${usedPrefix}qrcode*
-*┃➤ 🍃 ${usedPrefix}traducir*
+clima
+afk
+ocr
+calc
+del
+whatmusic
+qrcode
+traducir
  ╰━━━━━━━━━━━━
 
 *╭━〔 💎 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐀𝐒 💎 〕*
-*┃➤ 🍁 ${usedPrefix}verificar*
-*┃➤ 🍁 ${usedPrefix}unreg*
-*┃➤ 🍁 ${usedPrefix}minar*
-*┃➤ 🍁 ${usedPrefix}buy*
-*┃➤ 🍁 ${usedPrefix}work*
-*┃➤ 🍁 ${usedPrefix}mendigar*
-*┃➤ 🍁 ${usedPrefix}transfer*
+verificar
+unreg
+minar
+buy
+work
+mendigar
+transfer
  ╰━━━━━━━━━━━━
- *╔══ ≪ FUNCIONES OWNERS ≫ ══╗*
-*║* 💎➺ _${usedPrefix}join *enlace*_
-*║* 💎➺ _${usedPrefix}unete *enlace*_
-*║* 💎➺ _${usedPrefix}dardiamantes *cantidad*_
-*║* 💎➺ _${usedPrefix}darxp *cantidad*_
-*║* 💎➺ _${usedPrefix}dargatacoins *cantidad*_
-*║* 💎➺ _${usedPrefix}addprem | userpremium *@tag* *cantidad*_
-*║* 💎➺ _${usedPrefix}addprem2 | userpremium2 *@tag* *cantidad*_
-*║* 💎➺ _${usedPrefix}addprem3 | userpremium3 *@tag* *cantidad*_
-*║* 💎➺ _${usedPrefix}addprem4 | userpremium4 *@tag* *cantidad*_
-*║* 💎➺ _${usedPrefix}idioma | language_
-*║* 💎➺ _${usedPrefix}cajafuerte_
-*║* 💎➺ _${usedPrefix}comunicar | broadcastall | bc *texto*_
-*║* 💎➺ _${usedPrefix}broadcastchats | bcc *texto*_
-*║* 💎➺ _${usedPrefix}comunicarpv *texto*_
-*║* 💎➺ _${usedPrefix}broadcastgc *texto*_
-*║* 💎➺ _${usedPrefix}comunicargrupos *texto*_
-*║* 💎➺ _${usedPrefix}borrartmp | cleartmp_
-*║* 💎➺ _${usedPrefix}delexp *@tag*_
-*║* 💎➺ _${usedPrefix}deloptimuscoins *@tag*_
-*║* 💎➺ _${usedPrefix}deldiamantes *@tag*_
-*║* 💎➺ _${usedPrefix}reiniciar | restart_
-*║* 💎➺ _${usedPrefix}Actualizar | update_
-*║* 💎➺ _${usedPrefix}addprem | +prem *@tag*_
-*║* 💎➺ _${usedPrefix}delprem | -prem *@tag*_
-*║* 💎➺ _${usedPrefix}listapremium | listprem_
-*║* 💎➺ _${usedPrefix}añadirdiamantes *@tag cantidad*_
-*║* 💎➺ _${usedPrefix}añadirxp *@tag cantidad*_
-*║* 💎➺ _${usedPrefix}añadircoins *@tag cantidad*_
+ *╔══ ≪ FUNCIONES OWNERS 💎 ≫ ══╗*
+join *enlace*
+unete *enlace*
+dardiamantes *cantidad*
+darxp *cantidad*
+dargatacoins *cantidad*
+addprem | userpremium *@tag* *cantidad*
+addprem2 | userpremium2 *@tag* *cantidad*
+addprem3 | userpremium3 *@tag* *cantidad*
+addprem4 | userpremium4 *@tag* *cantidad*
+idioma | language
+cajafuerte
+comunicar | broadcastall | bc *texto*
+broadcastchats | bcc *texto*
+comunicarpv *texto*
+broadcastgc *texto*
+comunicargrupos *texto*
+borrartmp | cleartmp
+delexp *@tag*
+deloptimuscoins *@tag*
+deldiamantes *@tag*
+reiniciar | restart
+Actualizar | update
+addprem | +prem *@tag*
+delprem | -prem *@tag*
+listapremium | listprem
+añadirdiamantes *@tag cantidad*
+añadirxp *@tag cantidad*
+añadircoins *@tag cantidad*
 *╚══ ≪ •❈• ≫ ══╝*`.trim();
     if (m.isGroup) {
       // await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
@@ -337,7 +336,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     conn.reply(m.chat, '*[ ℹ️ ] Este menu tiene un error interno, por lo cual no fue posible enviarlo.*', m);
   }
 };
-handler.command = /^(menu|menú|memu|memú|help|info|comandos|allmenu|2help|menu1.2|ayuda|commands|commandos|cmd)$/i;
+handler.command = /^(menu|menú|memu|memú|help|info|comandos|allmenu|putobotenviaelmenu|2help|menu1.2|ayuda|commands|commandos|cmd)$/i;
 handler.exp = 50;
 handler.fail = null;
 export default handler;
