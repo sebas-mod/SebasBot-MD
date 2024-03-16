@@ -37,8 +37,8 @@ global.owner = [
   ['']
 ];
 
-global.suittag = ['56986469687'];
-global.prems = ['56986469687'];
+global.suittag = ['59168683798'];
+global.prems = ['59168683798'];
 
 global.packname = '𝑻𝒐𝒎𝒂 𝑻𝒖 𝑺𝒕𝒊𝒄𝒌𝒆𝒓';
 global.author = '𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕 🐣';
