@@ -19,12 +19,26 @@ if (!db.data.chats[m.chat].modohorny && m.isGroup) throw `*[❗] Los comandos +1
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *𝙇𝙪𝙙𝙢𝙞𝙗𝙤𝙩 💝* —◉
-║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *𝗛ola, ${taguser}*
-╰═══╡✯✯✯✯✯✯✯✯✯╞═══╯
+    const str = `┏━━━━━❍𝐒𝐄𝐁𝐀𝐒 𝐁𝐎𝐓❍━━━━━┓
+┃🐣𝐇𝐎𝐋𝐀 @${m.sender.split`@`[0]}
+┣━━━━━━━━━━━━━━━━━━
+┃╭━━━━━━━━━━━━━━╮
+┃┃𝐃𝐮𝐞𝐧̃𝐨 𝐃𝐞𝐥 𝐁𝐨𝐭:
+┃┃wa.me/
+┃┃𝐁𝐨𝐭 𝐎𝐟𝐢𝐜𝐢𝐚𝐥: 
+┃┃wa.me/
+┃┃𝐕𝐞𝐫𝐬𝐢𝐨𝐧: *2.1.0* 
+┃┃𝐅𝐞𝐜𝐡𝐚: ${date}
+┃┃𝐓𝐢𝐞𝐦𝐩𝐨 𝐀𝐜𝐭: ${uptime}
+┃┃𝐏𝐚𝐢𝐬: ${nombreLugar} 
+┃┃𝐂𝐢𝐮𝐝𝐚𝐝: ${ciudad}
+┃╰━━━━━━━━━━━━━━━╯
+┗━━━━━━━━━━━━━━━━━━━━┛
 
+
+┏━━━━━━━━━━━━━━━━━━━━┓
+┣・𝐌𝐄𝐍𝐔 +𝟏𝟖
+┣━━━━━━━━━━━━━━━━━━━━
 ┣・🔞 𝐩𝐚𝐜𝐤
 ┣・🔞 𝐩𝐚𝐜𝐤𝟐
 ┣・🔞 𝐩𝐚𝐜𝐤𝟑
@@ -57,43 +71,7 @@ if (!db.data.chats[m.chat].modohorny && m.isGroup) throw `*[❗] Los comandos +1
 ┣・🔞 𝐧𝐬𝐟𝐰𝐠𝐥𝐚𝐬𝐬
 ┣・🔞 𝐡𝐞𝐧𝐭𝐚𝐢𝐩𝐝𝐟 <𝚝𝚎𝚡𝚝𝚘>
 ┣・🔞 𝐡𝐞𝐧𝐭𝐚𝐢𝐬𝐞𝐚𝐫𝐜𝐡 <𝚝𝚎𝚡𝚝𝚘>
-
-┏━━━━━━━━━━━━━━━━┓
-┃ *< MENU+18 />*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
-┣ ඬ⃟ 🔞 _${usedPrefix}pack_
-┣ ඬ⃟ 🔞 _${usedPrefix}pack2_
-┣ ඬ⃟ 🔞 _${usedPrefix}pack3_
-┣ ඬ⃟ 🔞 _${usedPrefix}videoxxx_
-┣ ඬ⃟ 🔞 _${usedPrefix}videolesbixxx_
-┣ ඬ⃟ 🔞 _${usedPrefix}tetas_
-┣ ඬ⃟ 🔞 _${usedPrefix}booty_
-┣ ඬ⃟ 🔞 _${usedPrefix}ecchi_
-┣ ඬ⃟ 🔞 _${usedPrefix}furro_
-┣ ඬ⃟ 🔞 _${usedPrefix}imagenlesbians_
-┣ ඬ⃟ 🔞 _${usedPrefix}panties_
-┣ ඬ⃟ 🔞 _${usedPrefix}pene_
-┣ ඬ⃟ 🔞 _${usedPrefix}porno_
-┣ ඬ⃟ 🔞 _${usedPrefix}randomxxx_
-┣ ඬ⃟ 🔞 _${usedPrefix}pechos_
-┣ ඬ⃟ 🔞 _${usedPrefix}yaoi_
-┣ ඬ⃟ 🔞 _${usedPrefix}yaoi2_
-┣ ඬ⃟ 🔞 _${usedPrefix}yuri_
-┣ ඬ⃟ 🔞 _${usedPrefix}yuri2_
-┣ ඬ⃟ 🔞 _${usedPrefix}trapito_
-┣ ඬ⃟ 🔞 _${usedPrefix}hentai_
-┣ ඬ⃟ 🔞 _${usedPrefix}nsfwloli_
-┣ ඬ⃟ 🔞 _${usedPrefix}nsfworgy_
-┣ ඬ⃟ 🔞 _${usedPrefix}nsfwfoot_
-┣ ඬ⃟ 🔞 _${usedPrefix}nsfwass_
-┣ ඬ⃟ 🔞 _${usedPrefix}nsfwbdsm_
-┣ ඬ⃟ 🔞 _${usedPrefix}nsfwcum_
-┣ ඬ⃟ 🔞 _${usedPrefix}nsfwero_
-┣ ඬ⃟ 🔞 _${usedPrefix}nsfwfemdom_
-┣ ඬ⃟ 🔞 _${usedPrefix}nsfwglass_
-┣ ඬ⃟ 🔞 _${usedPrefix}hentaipdf *<texto>*_
-┣ ඬ⃟ 🔞 _${usedPrefix}hentaisearch *<texto>*_
-┗━━━━━━━━━━━━━━━━┛`.trim();
+┗━━━━━━━━━━━━━━━━━━━━┛`.trim();
     if (m.isGroup) {
       await conn.sendMessage(m.chat, {image: pp, caption: str.trim(), mentions: [...str.matchAll(/@([0-9]{5,16}|0)/g)].map((v) => v[1] + '@s.whatsapp.net')}, {quoted: m});
       await conn.sendFile(m.chat, vn, 'La biblia.mp3', null, m, true, {type: 'audioMessage', ptt: true});
