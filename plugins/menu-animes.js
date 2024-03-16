@@ -27,46 +27,87 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ┏━━━━━━━━━━━━━━━━┓
 ┃ *< MENU-ANIME />*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
-┣ ඬ⃟ 🧿 _${usedPrefix}lolivid_
-┣ ඬ⃟ 🧿 _${usedPrefix}loli_
-┣ ඬ⃟ 🧿 _${usedPrefix}ppcouple_
-┣ ඬ⃟ 🧿 _${usedPrefix}neko_
-┣ ඬ⃟ 🧿 _${usedPrefix}waifu_
-┣ ඬ⃟ 🧿 _${usedPrefix}akira_
-┣ ඬ⃟ 🧿 _${usedPrefix}akiyama_
-┣ ඬ⃟ 🧿 _${usedPrefix}anna_
-┣ ඬ⃟ 🧿 _${usedPrefix}asuna_
-┣ ඬ⃟ 🧿 _${usedPrefix}ayuzawa_
-┣ ඬ⃟ 🧿 _${usedPrefix}boruto_
-┣ ඬ⃟ 🧿 _${usedPrefix}chiho_
-┣ ඬ⃟ 🧿 _${usedPrefix}chitoge_
-┣ ඬ⃟ 🧿 _${usedPrefix}deidara_
-┣ ඬ⃟ 🧿 _${usedPrefix}erza_
-┣ ඬ⃟ 🧿 _${usedPrefix}elaina_
-┣ ඬ⃟ 🧿 _${usedPrefix}eba_
-┣ ඬ⃟ 🧿 _${usedPrefix}emilia_
-┣ ඬ⃟ 🧿 _${usedPrefix}hestia_
-┣ ඬ⃟ 🧿 _${usedPrefix}hinata_
-┣ ඬ⃟ 🧿 _${usedPrefix}inori_
-┣ ඬ⃟ 🧿 _${usedPrefix}isuzu_
-┣ ඬ⃟ 🧿 _${usedPrefix}itachi_
-┣ ඬ⃟ 🧿 _${usedPrefix}itori_
-┣ ඬ⃟ 🧿 _${usedPrefix}kaga_
-┣ ඬ⃟ 🧿 _${usedPrefix}kagura_
-┣ ඬ⃟ 🧿 _${usedPrefix}kaori_
-┣ ඬ⃟ 🧿 _${usedPrefix}keneki_
-┣ ඬ⃟ 🧿 _${usedPrefix}kotori_
-┣ ඬ⃟ 🧿 _${usedPrefix}kurumi_
-┣ ඬ⃟ 🧿 _${usedPrefix}madara_
-┣ ඬ⃟ 🧿 _${usedPrefix}mikasa_
-┣ ඬ⃟ 🧿 _${usedPrefix}miku_
-┣ ඬ⃟ 🧿 _${usedPrefix}minato_
-┣ ඬ⃟ 🧿 _${usedPrefix}naruto_
-┣ ඬ⃟ 🧿 _${usedPrefix}nezuko_
-┣ ඬ⃟ 🧿 _${usedPrefix}sagiri_
-┣ ඬ⃟ 🧿 _${usedPrefix}sasuke_
-┣ ඬ⃟ 🧿 _${usedPrefix}sakura_
-┣ ඬ⃟ 🧿 _${usedPrefix}cosplay_
+𝐥𝐨𝐥𝐢𝐯𝐢𝐝
+𝐥𝐨𝐥𝐢 
+𝐩𝐩𝐜𝐨𝐮𝐩𝐥𝐞 
+𝐧𝐞𝐤𝐨 
+𝐰𝐚𝐢𝐟𝐮 
+𝐚𝐤𝐢𝐫𝐚 
+𝐚𝐤𝐢𝐲𝐚𝐦𝐚 
+𝐚𝐧𝐧𝐚 
+𝐚𝐬𝐮𝐧𝐚 
+𝐚𝐲𝐮𝐳𝐚𝐰𝐚 
+𝐛𝐨𝐫𝐮𝐭𝐨 
+𝐜𝐡𝐢𝐡𝐨 
+𝐜𝐡𝐢𝐭𝐨𝐠𝐞 
+𝐝𝐞𝐢𝐝𝐚𝐫𝐚 
+𝐞𝐫𝐳𝐚 
+𝐞𝐥𝐚𝐢𝐧𝐚 
+𝐞𝐛𝐚 
+𝐞𝐦𝐢𝐥𝐢𝐚 
+𝐡𝐞𝐬𝐭𝐢𝐚 
+𝐡𝐢𝐧𝐚𝐭𝐚 
+𝐢𝐧𝐨𝐫𝐢 
+𝐢𝐬𝐮𝐳𝐮 
+𝐢𝐭𝐚𝐜𝐡𝐢 
+𝐢𝐭𝐨𝐫𝐢 
+𝐤𝐚𝐠𝐚 
+𝐤𝐚𝐠𝐮𝐫𝐚 
+𝐤𝐚𝐨𝐫𝐢 
+𝐤𝐞𝐧𝐞𝐤𝐢 
+𝐤𝐨𝐭𝐨𝐫𝐢 
+𝐤𝐮𝐫𝐮𝐦𝐢 
+𝐦𝐚𝐝𝐚𝐫𝐚 
+𝐦𝐢𝐤𝐚𝐬𝐚 
+𝐦𝐢𝐤𝐮 
+𝐦𝐢𝐧𝐚𝐭𝐨 
+𝐧𝐚𝐫𝐮𝐭𝐨 
+𝐧𝐞𝐳𝐮𝐤𝐨 
+𝐬𝐚𝐠𝐢𝐫𝐢 
+𝐬𝐚𝐬𝐮𝐤𝐞 
+𝐬𝐚𝐤𝐮𝐫𝐚 
+𝐜𝐨𝐬𝐩𝐥𝐚𝐲
+
+lolivid
+loli
+ppcouple
+neko
+waifu
+akira
+akiyama
+anna
+asuna
+ayuzawa
+boruto
+chiho
+chitoge
+deidara
+erza
+elaina
+eba
+emilia
+hestia
+hinata
+inori
+isuzu
+itachi
+itori
+kaga
+kagura
+kaori
+keneki
+kotori
+kurumi
+madara
+mikasa
+miku
+minato
+naruto
+nezuko
+sagiri
+sasuke
+sakura
+cosplay
 ┗━━━━━━━━━━━━━━━━┛`.trim();
     if (m.isGroup) {
       // await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
