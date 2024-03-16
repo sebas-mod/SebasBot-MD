@@ -2,7 +2,7 @@ let handler = async (m, { isPrems, conn }) => {
 let time = global.db.data.users[m.sender].lastcofre + 0 // 36000000 10 Horas //86400000 24 Horas
 if (new Date - global.db.data.users[m.sender].lastcofre < 0) throw `[❗𝐈𝐍𝐅𝐎❗] 𝚈𝙰 𝚁𝙴𝙲𝙻𝙰𝙼𝙰𝚂𝚃𝙴 𝚃𝚄 𝙲𝙾𝙵𝚁𝙴\𝚗𝚅𝚄𝙴𝙻𝚅𝙴 𝙴𝙽 *${msToTime(time - new Date())}* 𝙿𝙰𝚁𝙰 𝚅𝙾𝙻𝚅𝙴𝚁 𝙰 𝚁𝙴𝙲𝙻𝙰𝙼𝙰𝚁`
 
-let img = 'https://telegra.ph/file/de2b4da62036f59366eaf.jpg'
+let img = 'https://cdn.discordapp.com/attachments/1202339620939898981/1217617861191925770/LAAGENDASEMANALESTAAQUIUltimoroundElmaximopeleadorestalistoparaquedarseconelti...DragonFlamaVerdevuelveparaimpedirlo.AterrizaenelringconelAlaDeltaAletaKoiyapoderatedelavictori.jpg?ex=6604ae00&is=65f23900&hm=db59e0bf65c527e6c42c5a5ec4da04364a35460a3e8bf203b784eae9d4d6d86e&'
 let dia = Math.floor(Math.random() * 30)
 let tok = Math.floor(Math.random() * 10)
 let hadesb = Math.floor(Math.random() * 4000)
