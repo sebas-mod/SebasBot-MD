@@ -15,7 +15,7 @@ additionalText = '𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕-𝑴𝑫'
 additionalText = 'video 🎥'}
 await conn.sendMessage(m.chat, {
 text: `*⇄ㅤ     ◁   ㅤ  ❚❚ㅤ     ▷ㅤ     ↻*
-01:30━━━━━◉─────── 05:30
+01:30 ━━━━━◉─────── 05:30
 
 *${additionalText}*`, 
 contextInfo: {
