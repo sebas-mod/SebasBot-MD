@@ -355,34 +355,34 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┣・𝐅𝐔𝐍𝐂𝐈𝐎𝐍𝐄𝐒 𝐎𝐖𝐍𝐄𝐑𝐒🤴
 ┣━━━━━━━━━━━━━━━━━━━━
-join *enlace*
-unete *enlace*
-dardiamantes *cantidad*
-darxp *cantidad*
-dargatacoins *cantidad*
-addprem | userpremium *@tag* *cantidad*
-addprem2 | userpremium2 *@tag* *cantidad*
-addprem3 | userpremium3 *@tag* *cantidad*
-addprem4 | userpremium4 *@tag* *cantidad*
-idioma | language
-cajafuerte
-comunicar | broadcastall | bc *texto*
-broadcastchats | bcc *texto*
-comunicarpv *texto*
-broadcastgc *texto*
-comunicargrupos *texto*
-borrartmp | cleartmp
-delexp *@tag*
-deloptimuscoins *@tag*
-deldiamantes *@tag*
-reiniciar | restart
-Actualizar | update
-addprem | +prem *@tag*
-delprem | -prem *@tag*
-listapremium | listprem
-añadirdiamantes *@tag cantidad*
-añadirxp *@tag cantidad*
-añadircoins *@tag cantidad*
+┣・𝐣𝐨𝐢𝐧 |𝚎𝚗𝚕𝚊𝚌𝚎
+┣・𝐮𝐧𝐞𝐭𝐞 |𝚎𝚗𝚕𝚊𝚌𝚎
+┣・𝐝𝐚𝐫𝐝𝐢𝐚𝐦𝐚𝐧𝐭𝐞𝐬 |𝚌𝚊𝚗𝚝𝚒𝚍𝚊𝚍
+┣・𝐝𝐚𝐫𝐱𝐩 |𝚌𝚊𝚗𝚝𝚒𝚍𝚊𝚍
+┣・𝐝𝐚𝐫𝐠𝐚𝐭𝐚𝐜𝐨𝐢𝐧𝐬 | 𝚌𝚊𝚗𝚝𝚒𝚍𝚊𝚍 
+┣・𝐚𝐝𝐝𝐩𝐫𝐞𝐦 | @𝚝𝚊𝚐/𝚌𝚊𝚗𝚝𝚒𝚍𝚊𝚍 
+┣・𝐚𝐝𝐝𝐩𝐫𝐞𝐦𝟐 | @𝚝𝚊𝚐/𝚌𝚊𝚗𝚝𝚒𝚍𝚊𝚍
+┣・𝐚𝐝𝐝𝐩𝐫𝐞𝐦𝟑 | @𝚝𝚊𝚐/𝚌𝚊𝚗𝚝𝚒𝚍𝚊𝚍
+┣・𝐚𝐝𝐝𝐩𝐫𝐞𝐦𝟒 | @𝚝𝚊𝚐/𝚌𝚊𝚗𝚝𝚒𝚍𝚊𝚍 
+┣・𝐢𝐝𝐢𝐨𝐦𝐚 | 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 
+┣・𝐜𝐚𝐣𝐚𝐟𝐮𝐞𝐫𝐭𝐞 
+┣・𝐜𝐨𝐦𝐮𝐧𝐢𝐜𝐚𝐫 |𝐛𝐜 𝚝𝚎𝚡𝚝𝚘
+┣・𝐛𝐫𝐨𝐚𝐝𝐜𝐚𝐬𝐭𝐜𝐡𝐚𝐭𝐬 |𝐛𝐜𝐜 𝚝𝚎𝚡𝚝𝚘 
+┣・𝐜𝐨𝐦𝐮𝐧𝐢𝐜𝐚𝐫𝐩𝐯 𝚝𝚎𝚡𝚝𝚘
+┣・𝐛𝐫𝐨𝐚𝐝𝐜𝐚𝐬𝐭𝐠𝐜 𝚝𝚎𝚡𝚝𝚘 
+𝐜𝐨𝐦𝐮𝐧𝐢𝐜𝐚𝐫𝐠𝐫𝐮𝐩𝐨𝐬 𝚝𝚎𝚡𝚝𝚘
+┣・𝐛𝐨𝐫𝐫𝐚𝐫𝐭𝐦𝐩 | 𝐜𝐥𝐞𝐚𝐫𝐭𝐦𝐩 
+┣・𝐝𝐞𝐥𝐞𝐱𝐩 @𝚝𝚊𝚐
+┣・𝐝𝐞𝐥𝐨𝐩𝐭𝐢𝐦𝐮𝐬𝐜𝐨𝐢𝐧𝐬 @𝚝𝚊𝚐 
+┣・𝐝𝐞𝐥𝐝𝐢𝐚𝐦𝐚𝐧𝐭𝐞𝐬 @𝚝𝚊𝚐
+┣・𝐫𝐞𝐢𝐧𝐢𝐜𝐢𝐚𝐫 | 𝐫𝐞𝐬𝐭𝐚𝐫𝐭 
+┣・𝐀𝐜𝐭𝐮𝐚𝐥𝐢𝐳𝐚𝐫 | 𝐮𝐩𝐝𝐚𝐭𝐞 
+┣・𝐚𝐝𝐝𝐩𝐫𝐞𝐦 | +𝐩𝐫𝐞𝐦 @𝚝𝚊𝚐
+┣・𝐝𝐞𝐥𝐩𝐫𝐞𝐦 | -𝐩𝐫𝐞𝐦 @𝚝𝚊𝚐
+┣・𝐥𝐢𝐬𝐭𝐚𝐩𝐫𝐞𝐦𝐢𝐮𝐦 | 𝐥𝐢𝐬𝐭𝐩𝐫𝐞𝐦 
+┣・𝐚ñ𝐚𝐝𝐢𝐫𝐝𝐢𝐚𝐦𝐚𝐧𝐭𝐞𝐬 @𝚝𝚊𝚐/𝚌𝚊𝚗𝚝𝚒𝚍𝚊𝚍
+┣・𝐚ñ𝐚𝐝𝐢𝐫𝐱𝐩 @𝚝𝚊𝚐/𝚌𝚊𝚗𝚝𝚒𝚍𝚊𝚍
+┣・𝐚ñ𝐚𝐝𝐢𝐫𝐜𝐨𝐢𝐧𝐬 @𝚝𝚊𝚐/𝚌𝚊𝚗𝚝𝚒𝚍𝚊𝚍
 ┗━━━━━━━━━━━━━━━━━━━━┛`.trim();
     if (m.isGroup) {
       // await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
@@ -394,7 +394,7 @@ añadircoins *@tag cantidad*
       conn.sendMessage(m.chat, {image: pp, caption: str.trim(), mentions: [...str.matchAll(/@([0-9]{5,16}|0)/g)].map((v) => v[1] + '@s.whatsapp.net')}, {quoted: fkontak2});
     }
   } catch {
-    conn.reply(m.chat, '*[ ℹ️ ] Este menu tiene un error interno, por lo cual no fue posible enviarlo.*', m);
+    conn.reply(m.chat, '*🐣 𝙴𝚜𝚝𝚎 𝚖𝚎𝚗𝚞 𝚝𝚒𝚎𝚗𝚎 𝚞𝚗 𝚎𝚛𝚛𝚘𝚛 𝚒𝚗𝚝𝚎𝚛𝚗𝚘, 𝚙𝚘𝚛 𝚕𝚘 𝚌𝚞𝚊𝚕 𝚗𝚘 𝚏𝚞𝚎 𝚙𝚘𝚜𝚒𝚋𝚕𝚎 𝚎𝚗𝚟𝚒𝚊𝚛𝚕𝚘.*', m);
   }
 };
 handler.command = /^(menu|menú|memu|memú|help|info|comandos|allmenu|putobotenviaelmenu|2help|menu1.2|ayuda|commands|commandos|cmd)$/i;
