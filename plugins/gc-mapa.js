@@ -5,7 +5,7 @@ handler.command = /^(Mapa|mapa)$/i;
 export default handler;
 
 global.mapa = `
-*Reglas Mapa : DINOBOT*
+*Reglas Mapa : DYLANBOT*
 
 *Caida*  ' Cambia Nombre Del Team '
 _Demons 1ra Sala Lado Derecho_
@@ -40,7 +40,7 @@ _Rival : Blanco_
 *Creacion*
 
 _1ra Sala : Rival_
-_2da Sala : Demons_
+_2da Sala : Revels_
 _3ra Sala : Perdedor De 1ra_
 
 
