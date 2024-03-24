@@ -475,8 +475,8 @@ break;
       if (!/[01]/.test(command)) return await conn.sendMessage(m.chat, {text: optionsFull}, {quoted: m});
       throw false;
   }
-  conn.sendMessage(m.chat, {text: `_*< FUNCIONES DEL BOT />*_\n\n*[ ℹ️ ] ┣🐥𝑶𝑷𝑪𝑰𝑶𝑵: _${type}_\n ┣🐥𝐄𝐒𝐓𝐀𝐃𝐎:  ${isEnable ? '𝑶𝒏🟢' : '𝑶𝒇𝒇🔴'} *┣🐥𝐏𝐀𝐑𝐀: 𝑬𝒔𝒕𝒆 𝒄𝒉𝒂𝒕 ✔️* ${isAll ? '_bot._' : isUser ? '' : '_chat._'}`}, {quoted: m});
+  conn.sendMessage(m.chat, {text: `┏━━━━━━━━━━━━━━━━━━━┓\n ┣🐥𝑶𝑷𝑪𝑰𝑶𝑵: _${type}_\n┣🐥𝐄𝐒𝐓𝐀𝐃𝐎:  ${isEnable ? '𝑶𝒏🟢' : '𝑶𝒇𝒇🔴'} *┣🐥𝐏𝐀𝐑𝐀:* ${isAll ? '𝑬𝒔𝒕𝒆 𝒄𝒉𝒂𝒕 ✔️\n┗━━━━━━━━━━━━━━━━━━━┛' : isUser ? '' : '𝑬𝒔𝒕𝒆 𝒄𝒉𝒂𝒕✔'}`}, {quoted: m});
   //conn.sendMessage(m.chat, {text: `▢ *Opción:* ${type}\n\n▢ *Estado:* ${isEnable ? 'Activado' : 'Desactivado'}\n\n▢ *Para* ${isAll ? 'este bot' : isUser ? '' : 'este chat'}`}, {quoted: m});
 };
 handler.command = /^((en|dis)able|(tru|fals)e|(turn)?[01])$/i;
-export default handler;
+export default handler;️
