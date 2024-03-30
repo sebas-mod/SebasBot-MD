@@ -512,7 +512,7 @@ setInterval(async () => {
   if (stopped === 'close' || !conn || !conn.user) return;
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
-  const bio = `👨🏻‍💻 ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ: ${uptime} ┃ 𝙇𝙪𝙙𝙢𝙞𝙗𝙤𝙩 💝 ┃ 🔗 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖: @LUDMI_SHOP_`;
+  const bio = `፧፧ 𝑺𝑬𝑩𝑨𝑺 𝑩𝑶𝑻 🐣 ፧፧ 𝒎𝒂𝒙𝒊𝒎𝒂 𝒑𝒐𝒕𝒆𝒏𝒄𝒊𝒂💫 ፧፧ 𝒑𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐 @𝒍𝒖𝒊𝒔.𝒔𝒆𝒃𝒂𝒔𝒕𝒊𝒂𝒏.𝟷𝟿`;
   await conn.updateProfileStatus(bio).catch((_) => _);
 }, 60000);
 function clockString(ms) {
