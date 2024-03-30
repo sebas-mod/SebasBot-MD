@@ -28,7 +28,8 @@
 ### `—◉ 📍𝙄𝙢𝙥𝙤𝙧𝙩𝙖𝙣𝙩𝙚📍` 
 -:
 ```bash
-Bot de uso exclusivo no publico
+Bot de uso exclusivo no publico 
+no intentes conectarlo/copiarlo🛑
 ```
 
  ### `—◉ 🌹DUDAS SOBRE EL BOT?,CONTACTA AL CREADOR🌹`
