@@ -38,7 +38,7 @@ Bot de uso exclusivo no publico
 <a href="http://wa.me/59168683798" target="blank"><img src="https://img.shields.io/badge/KARIM_COSTOMER_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
-## `🌹EDITOR & PROPIETARIO DEL BOT🌹` 
+## `🌹EDITOR🌹` 
 <a href="https://github.com/Karim-off"><img src="https://github.com/Karim-off.png" width="250" height="250" alt="Jostin"/></a>
   
 
