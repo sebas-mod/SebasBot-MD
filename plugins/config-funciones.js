@@ -2,7 +2,7 @@ const handler = async (m, {conn, usedPrefix, command, args, isOwner, isAdmin, is
 const optionsFull = `_*< FUNCIONES DEL BOT />*_\n 
 ▢ *Opción:* ✨ | WELCOME
 ▢ *Comando:* ${usedPrefix + command} welcome
-▢ *Descripción:* Activa o desactiva la bienvenida en el grupo.
+▢ *Descripción:* Activa o desactiva la bienvenida en el grupo..
 
 --------------------------------
 
