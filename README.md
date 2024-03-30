@@ -25,7 +25,7 @@
 <a href="https://www.instagram.com/usxr_angelito?igsh=OGY1bGE1d3EyY212" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM_DEL_CREADOR-25D366?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 
-### `—◉ 📍𝗔𝗰𝘁𝗶𝘃𝗮𝗿 𝗲𝗻 𝘁𝗲𝗿𝗺𝘂𝘅📍` 
+### `—◉ 📍𝙄𝙢𝙥𝙤𝙧𝙩𝙖𝙣𝙩𝙚📍` 
 -:
 ```bash
 Bot de uso exclusivo no publico
